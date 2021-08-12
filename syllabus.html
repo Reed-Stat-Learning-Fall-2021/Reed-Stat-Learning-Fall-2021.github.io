@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Syllabus</title>
+
+<script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/sandstone.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-sm-12 col-md-4 col-lg-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-sm-12 col-md-8 col-lg-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Statistical Learning</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Homepage</a>
+</li>
+<li>
+  <a href="syllabus.html">Syllabus</a>
+</li>
+<li>
+  <a href="schedule.html">Schedule</a>
+</li>
+<li>
+  <a href="homework.html">Homework</a>
+</li>
+<li>
+  <a href="projects.html">Projects</a>
+</li>
+<li>
+  <a href="exams.html">Exams</a>
+</li>
+<li>
+  <a href="resources.html">Resources</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Syllabus</h1>
+
+</div>
+
+
+<div id="contact-information" class="section level2">
+<h2>Contact Information</h2>
+<p><strong>Instructor</strong>: Jonathan “Nate” Wells</p>
+<p><strong>Email</strong>: <a href="mailto:wellsj@reed.edu" class="email">wellsj@reed.edu</a></p>
+<p><strong>Classroom</strong>: <a href="https://zoom.us/j/99813563912" class="uri">https://zoom.us/j/99813563912</a> (password available in Slack)</p>
+<p><strong>Virtual Office</strong>: <a href="https://zoom.us/my/wellsj392" class="uri">https://zoom.us/my/wellsj392</a></p>
+<p><strong>Virtual Office Hours</strong>: Tuesday 6-7pm, Wednesday 10-11am, Thursday 2-3pm, Friday 10-11am; or by appointment</p>
+<hr />
+</div>
+<div id="course-information" class="section level2">
+<h2>Course Information</h2>
+<p><strong>Course Description</strong>: This course is an overview of modern approaches to analyzing large and complex data sets that arise in a variety of fields from biology to marketing to astrophysics. The most important modeling and predictive techniques will be covered, including regression, classification, clustering, resampling, and tree-based methods. There will be several projects throughout the course, which will require significant programming in R.</p>
+<p><strong>Prerequisites</strong>: MATH141, or Instructor Consent.</p>
+<p><strong>Distribution Requirements</strong>: This course can be used towards your Group III, “Natural, Mathematical, and Psychological Science,” requirement. It accomplishes the following learning goals for the group:</p>
+<ol style="list-style-type: decimal">
+<li>Use and evaluate quantitative data or modeling, or use logical/mathematical reasoning to evaluate, test or prove statements.</li>
+<li>Given a problem or question, formulate a hypothesis or conjecture, and design an experiment, collect data or use mathematical reasoning to test or validate it.</li>
+<li>Collect, interpret and analyze data.</li>
+</ol>
+<p>This course does not satisfy the “primary data collection and analysis” requirement.</p>
+<p><strong>Textbook</strong>:</p>
+<ul>
+<li>(Primary) <em>An Introduction to Statistical Learning</em>, 1st Edition by James, Witten, Hastie, and Tibshirani. Free online access to the textbook is available at SpringerLink <a href="https://link.springer.com/book/10.1007%2F978-1-4614-7138-7" class="uri">https://link.springer.com/book/10.1007%2F978-1-4614-7138-7</a></li>
+<li>(Secondary) <em>Applied Predictive Modeling</em>, 1st Edition by Kuhn and Johnson. We will use select content from this text to supplement . Free online access to the textbook is available at SpringerLink <a href="https://link.springer.com/book/10.1007%2F978-1-4614-6849-3" class="uri">https://link.springer.com/book/10.1007%2F978-1-4614-6849-3</a></li>
+</ul>
+<p><strong>Course Resources</strong>: The following web-based resources will be used for communicating class information:</p>
+<ul>
+<li><p>Slack &lt;reedmath391fall2020.slack.com&gt; (<em>announcements, discussions, direct messaging</em>).</p></li>
+<li><p>Course Website <a href="https://Reed-Stat-Learning-Fall-2020.github.io" class="uri">https://Reed-Stat-Learning-Fall-2020.github.io</a> (<em>documents, a daily schedule, assignments</em>).</p></li>
+<li><p>GitHub Classroom <a href="https://classroom.github.com/classrooms/69487382-reed-stat-learning-fall-2020-classroom" class="uri">https://classroom.github.com/classrooms/69487382-reed-stat-learning-fall-2020-classroom</a> (<em>homework submission</em>).</p></li>
+</ul>
+<p><strong>Technology</strong>: Our class will be conducted primarily online using Zoom. You will need the following during our scheduled class time: a computer with stable internet access, a webcam and microphone, a location where you can carry out a conversation at normal volume.</p>
+<p>We will make very frequent use of the R programming language to create statistical models, run simulations, and implement stat learning algorithms. All homework will be completed using the RStudio IDE. R and RStudio are free to use, and can either be installed locally on your computer, or can be accessed using the Reed RStudio Server: <a href="https://rstudio.reed.edu/" class="uri">https://rstudio.reed.edu/</a></p>
+<p>Throughout the term, we will use GitHub to manage and submit assignments. GitHub is a hosting service to house Git-based projects online, and is designed to assist with version control and collaboration on big projects. <a href="https://github.com/" class="uri">https://github.com/</a></p>
+<p><strong>Communication</strong>: If you would like to contact me, I can most easily be reached via Slack message weekdays between 8am and 6pm. While I try to answer messages as soon as possible, in some cases, I may not be able to respond until the following school day. If you’d prefer to talk live, send me a message and we can schedule a time to chat on zoom.</p>
+<hr />
+</div>
+<div id="course-outcomes" class="section level2">
+<h2>Course Outcomes</h2>
+<p>By the end of the course, a student should be able to: - Articulate and compare the different philosophical approaches to prediction, statistical inference, classification, and clustering. - Create valid statistical models, perform data analysis using software, and communicate results in non-technical language using reproducible methods in order to answer a particular research question. - Implement simulation and randomization algorithms in order to demonstrate and assess properties of statistical models. - Assess and compare the performance of a variety of statistical models, and select appropriate models according to suitable criteria. - Apply statistical learning techniques to real-world data and problems. - Justify and describe properties of particular statistical learning methods by appealing to mathematical theory.</p>
+<hr />
+</div>
+<div id="course-format" class="section level2">
+<h2>Course Format</h2>
+<p>A typical class day will involve the folllowing:</p>
+<ul>
+<li><em>Reading Assignment</em>. Every class will have an assigned reading which you are strongly encouraged to review prior to the start of class.</li>
+<li><em>Active Synchronous Lecture</em>. Our 50-minute virtual meetings will include an interactive lecture by the instructor, with some time devoted to discussion either class-wide or in small groups. While lectures will be recorded and made available after class, you should plan to attend the lecture live whenever possible.</li>
+<li><em>Group Work</em>. At least once each week, a majority of class time will be reserved for collaborative coding and group work with your peers. For those who wish to work in-person, an appropriate space will be reserved.</li>
+</ul>
+<p><strong>Workload</strong>: A prepared student will attend class for 50 minutes per day, three days each week, and spend about two to three hours per day of class on work outside the classroom (reading, doing homework, working on projects, discussing, studying, etc.). Together, this represents a 9 - 12 hour per week commitment.</p>
+<hr />
+</div>
+<div id="grading-criteria" class="section level2">
+<h2>Grading Criteria</h2>
+<p>Your grade in the class will be determined by your proficiency in each of the <em>Course Outcomes</em>, as demonstrated in the following assessments:</p>
+<ol style="list-style-type: decimal">
+<li>Homework</li>
+<li>Participation</li>
+<li>Midterm Exams</li>
+<li>Final Exam</li>
+<li>Final Project</li>
+</ol>
+<p><strong>Homework</strong>: A weekly problem set will be made available after class on Wednesday, due before the start of class on the following Wednesday. Some time on Monday or Friday of each week will be devoted to collaborative coding components of the assignment. Problem sets must be completed as a .rmd file in RStudio and submitted via GitHub. Detailed submission instructions can be found on the course webpage. Up to two times throughout the term, you may request up to a 5 day extension on your assignment. Except in extraordinary circumstances, requests must be made prior to an assignment’s due date.</p>
+<p><strong>In-class Participation</strong>: The online nature of our course means it is easier to become disconnected. Moreover, some days will involve collaborative coding and work on long-term projects. For these reasons, it is important to actively attend each class when able and to participate via discussion and polls. If you are unable to attend class, please notify me in advance. You may miss up to three classes throughout the term without penalty, but more frequent absences will be reflected in your final course grade. Additionally, you are expected to make at least two significant contributions to the Slack workspace each week. Examples of significant contributions can be found on Slack.</p>
+<p><strong>Midterm Exams</strong>: Three take-home exams will be given during the term, and will be made available on a Friday, to be completed before class the following Monday. Tentatively, the first is scheduled for Friday, September 25th (Week 4), the second for Friday, October 23 (Week 8), and the third for November 13th (Week 11). The exams are intended to take between 3 and 4 hours to complete.</p>
+<p><strong>Final Exam</strong>: A cumulative take-home final exam will be given during Finals Week, as scheduled by the Registrar.</p>
+<p><strong>Final Project</strong>: Throughout the second half of the term, you will work in groups of 3 on a project that answers a significant research question using real-world data, by implementing the fundamental techniques developed in our class, as well as some more advanced methods from supplementary sources. The project will culminate in a 20 minute presentation during the last week of class and a 10-15 page reproducible report.</p>
+<p><strong>If illness or other circumstances prevent you from participating in class for 3 or more class days, please let me know as soon as possible so we can make appropriate arrangements for missed work.</strong></p>
+<hr />
+</div>
+<div id="policies" class="section level2">
+<h2>Policies</h2>
+<p><strong>Accessibility</strong>: Reed College is dedicated to creating inclusive learning environments. Please notify me as soon as possible if there are aspects of the instruction or design of this course that result in disability-related barriers to your participation. You are also encouraged to contact Disability &amp; Accessibility Resources at <a href="mailto:dar@reed.edu" class="email">dar@reed.edu</a>, and to peruse the services offered on their website at <a href="https://www.reed.edu/disability-resources/" class="uri">https://www.reed.edu/disability-resources/</a>.</p>
+<p><strong>Academic Integrity</strong>: Students are allowed and encouraged to collaborate on most in-class and homework assignments. However, any work that you turn in for grading must be your own. You are welcome to use internet resources to supplement content we cover in this course, with the exception of solutions to homework problems. Copying solutions from the internet is an Honor Principle violation. Exams will explicitly mention what resources may be consulted. All written work that references material outside of the textbook or lecture should be accompanied by an appropriate citation.</p>
+<hr />
+</div>
+<div id="tentative-schedule" class="section level2">
+<h2>Tentative Schedule</h2>
+<p><em>This is the schedule as of Day 1. A more up-to-date schedule can be found <a href="https://reed-stat-learning-fall-2020.github.io/schedule.html">here</a>.</em></p>
+<table>
+<thead>
+<tr class="header">
+<th>Week</th>
+<th>Sections Covered</th>
+<th>Week</th>
+<th>Sections Covered</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Foundations of Stat Learning</td>
+<td>9</td>
+<td>Tree-Based Models</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Simple Linear Models</td>
+<td>10</td>
+<td>Tree-Based Models</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Multiple Linear Regression</td>
+<td>11</td>
+<td>Unsupervised Learning (Exam 3)</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Classification (Exam 1)</td>
+<td>12</td>
+<td>Unsupervised Learning</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Classification</td>
+<td></td>
+<td>Thanksgiving Break</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Resampling Methods</td>
+<td>13</td>
+<td>Projects</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>Model Selection</td>
+<td>14</td>
+<td>Reading Week</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>Support Vector Machines (Exam 2)</td>
+<td>15</td>
+<td>Final Exam</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

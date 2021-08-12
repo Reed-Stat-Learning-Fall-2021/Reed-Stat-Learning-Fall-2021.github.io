@@ -1,0 +1,112 @@
+---
+title: "Projects"
+---
+
+## Overview
+One of the most important functions of the working statistician is to investigate and answer significant research questions by analyzing real-world data, using a variety of elementary and advanced modeling techniques, and to distill the results into reports that are accessible to the non-statistician. 
+
+You will work in small groups to research a topic of interest to you, and then summarize your results in a short presentation to the class and as well as a technical report submitted to me.
+
+## Due Dates
+
+1. Group Membership: Friday, October 23rd by 1:35pm on Slack
+
+2. Project Proposal: Monday, November 2nd by 1:35pm on GitHub
+
+3. Technical Report (Data and Exploratory Data Analysis sections only): Friday, November 20th by 1:35pm on GitHub
+
+4. Technical Report Draft (All sections complete): Monday, December 7th by 5pm on GitHub
+
+5. Presentation Rehearsal: Week of 12/7 - 12/12, individually scheduled
+
+6. Presentation: Monday, December 14th 9am - Noon in class
+
+7. Technical Report: Tuesday, December 15th by 5pm on GitHub
+
+
+
+## Components
+
+### Groups
+
+You will arrange yourselves into groups of 2 or 3 students each. One person in your group should submit a list of group members to me via Slack message by **1:35pm on Friday, October 23rd**. If you need help finding a group or wish to advertise for another member, please use the `#General-Discussion` channel on our Slack workspace. On Friday evening, I will sort any students who didn't express group preferences into groups.
+
+### Project Proposal
+
+By **1:35 pm Monday, November 2nd**, your group will draft a well-written project proposal outlining your project and upload the document to your group's GitHub repository. The proposal should include the following information:
+
+- At least 1 paragraph of background information on the topic you wish to study.
+
+- A precise statement of the research question you wish to answer.
+
+- A description of the type of data you will use to answer your question.
+
+- One or two candidates for data sets that you can analyze.
+
+- At least 1 paragraph describing the utility of an answer to your research question, or a discussion of why an answer would be interesting or relevant to you.
+
+- A brief discussion of any obstacles you foresee either in data acquisition or analysis.
+
+### Technical Report
+
+A final draft of your technical report is should be uploaded to GitHub by **5pm on Tuesday, December 15th**. The  technical report should be a .Rmd file with output either to .pdf or .html. To make sure compiling your document does not take too long, consider adding `cache = T` to the chunk options for any R chunk requiring substantial computing. Your report should contain the following sections:
+
+#### Abstract
+
+A very brief description of the topic you are investigating, the research question of interest, your methods of analysis, and the general conclusion of your study.
+
+#### Introduction
+
+An overview of the topic and relevant background information, a discussion of existing theories and models, a description of how your investigation differs from prior ones, and a precise statement of your research question.
+
+#### Methods
+
+A description of the data sets used, a discussion of where the data came from and how it was obtained, a summary of the data itself (including the number of observations and variables, and what each observational unit represents), an explanation of data processing implemented to prepare the data for analysis.
+
+#### Exploratory Data Analysis
+
+A presentation of graphical and numerical summaries of the data (along with a discussion of their relevance to modeling assumptions and further analysis), a description of the statistical methods used to analyze your data, and diagnostics of the appropriateness of any models or inference procedures you will apply in the Results section.
+
+#### Results
+
+A description of the tools and methods used to build your models, an overview of the models themselves and a summary of their attributes, a discussion of model comparisons and accuracy, a presentation of model predictions, classifications, and/or parameter inference.
+
+#### Discussion
+
+A review of the results generated from the model and synthesis with the context from which the data was generated or observed, a restatement of research objective and an answer to the original research question, a discussion limitations of the study as well as areas for further research.
+
+#### Code Appendix 
+
+A collection of code used to process data, perform analysis, and build models. To avoid excessive run-times when compiling the document, consider adding `eval = F` to the chunk options (which will force the code not to be run when compiling the document into .pdf or .html)
+
+#### References
+
+The citations for any data sets, literature or resources directly or indirectly referenced in your report, along with any sources you consulted during your investigation that had a significant impact on your analysis. Citations should be made according to the ASA style guide: https://amstat.tfjournals.com/asa-style-guide/
+
+### Presentation
+
+During our final exam time from **9am to noon on Monday, December 14th**, each group will give a 15 - 20 minute presentation on zoom to the class outlining their project and results. Fifteen minutes is **not** a lot of time, so groups should plan carefully what they will discuss. The structure of the talk should mirror the structure of the technical report (albeit greatly abbreviated). Groups should create slides or an .html page that can be screen-shared in order to engage the audience.
+
+## Example Projects from Past Years
+
+The following are a selection of topics and research questions groups investigated in years past. Use this list to get a sense of scope and possibilities for the project.
+
+### Predicting Police Response Time
+
+
+This project is an attempt to fit a predictive model on police response time data in order to determine if population density, neighborhood race and income characteristics, and the call type have any significant influence on the time it takes for an officer to be dispatched and the time it takes for a dispatched officer to arrive to the call. We plan on fitting a model using Portland Police Bureau data as training data, and testing the model on different cities such as Los Angeles, Seattle, and Boston.
+
+
+
+### Yelp! An Exploratory Journey in Natural Language Processing
+
+
+The Yelp dataset includes over 5 million text reviews from businesses around the world. We aim to predict the number of stars a reviewer gives a business from the text of the review itself. To do so, we take two approaches: connecting review words to sentiment dictionaries and learning from the data itself. Because the nature of our response variable is ordered, we also think about how the fit of our model should be judged using a handful of different error measurements.
+
+### Predicting the musical instrument from a recorded note
+
+Can we predict the instrument being played from a sound recording? This project will utilize data from isolated sound recordings of different instruments being played, with possible predictors relating to unexplained differences in the frequency wave patterns, the modulation of frequency or amplitude over time, or the prevalence of different overtones in the sound. The goal will be to predict the instrument being played based on a test sound recording.
+
+### NBA Player Positions
+
+In this project, our group will describe the changes in playstyle types throughout the NBA's history. We will perform PCA analysis to determine the essential traits for different players, and then use important principal components and unsupervised learning techinques to cluster players into different "types" and see the movement in the proportions of types over time.

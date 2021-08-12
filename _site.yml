@@ -1,0 +1,26 @@
+name: "Reed Math 243 Fall 2020"
+navbar:
+  title: "Statistical Learning"
+  left:
+    - text: "Homepage"
+      href: index.html
+    - text: "Syllabus"
+      href: syllabus.html
+    - text: "Schedule"
+      href: schedule.html
+    - text: "Homework"
+      href: homework.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Exams"
+      href: exams.html
+    - text: "Resources"
+      href: resources.html
+output:
+  html_document:
+    toc: true 
+    toc_depth: 3
+    toc_float: true
+    css: styles.css
+    theme: sandstone
+output_dir: "."

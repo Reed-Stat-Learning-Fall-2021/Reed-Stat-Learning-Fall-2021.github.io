@@ -1,0 +1,126 @@
+---
+title: "Syllabus"
+---
+
+## Contact Information
+
+**Instructor**: Jonathan "Nate" Wells
+
+**Email**: <wellsj@reed.edu>
+
+**Classroom**: <https://zoom.us/j/99813563912> (password available in Slack)
+
+**Virtual Office**: <https://zoom.us/my/wellsj392>
+
+**Virtual Office Hours**: Tuesday 6-7pm, Wednesday 10-11am, Thursday 2-3pm, Friday 10-11am; or by appointment
+
+*********************************************
+
+## Course Information
+
+**Course Description**: This course is an overview of modern approaches to analyzing large and complex data sets that arise in a variety of fields from biology to marketing to astrophysics. The most important modeling and predictive techniques will be covered, including regression, classification, clustering, resampling, and tree-based methods. There will be several projects throughout the course, which will require significant programming in R.
+
+**Prerequisites**: MATH141, or Instructor Consent.
+
+**Distribution Requirements**: This course can be used towards your Group III, “Natural, Mathematical, and Psychological Science,” requirement. It accomplishes the following learning goals for the group:
+
+1. Use and evaluate quantitative data or modeling, or use logical/mathematical reasoning to evaluate, test or prove statements.
+2. Given a problem or question, formulate a hypothesis or conjecture, and design an experiment, collect data or use mathematical reasoning to test or validate it.
+3. Collect, interpret and analyze data.
+
+This course does not satisfy the "primary data collection and analysis" requirement.
+
+**Textbook**:
+
+- (Primary) *An Introduction to Statistical Learning*, 1st Edition by James, Witten, Hastie, and Tibshirani. Free online access to the textbook is available at SpringerLink <https://link.springer.com/book/10.1007%2F978-1-4614-7138-7>
+- (Secondary) *Applied Predictive Modeling*, 1st Edition by Kuhn and Johnson. We will use select content from this text to supplement \textit{ISL}. Free online access to the textbook is available at SpringerLink
+<https://link.springer.com/book/10.1007%2F978-1-4614-6849-3>
+
+**Course Resources**: The following web-based resources will be used for communicating class information:
+
+- Slack <reedmath391fall2020.slack.com> (*announcements, discussions, direct messaging*).
+
+- Course Website <https://Reed-Stat-Learning-Fall-2020.github.io> (*documents, a daily schedule, assignments*).
+
+- GitHub Classroom <https://classroom.github.com/classrooms/69487382-reed-stat-learning-fall-2020-classroom> (*homework submission*).
+
+
+**Technology**: Our class will be conducted primarily online using Zoom. You will need the following during our scheduled class time: a computer with stable internet access, a webcam and microphone, a location where you can carry out a conversation at normal volume. 
+
+We will make very frequent use of the R programming language to create statistical models, run simulations, and implement stat learning algorithms. All homework will be completed using the RStudio IDE. R and RStudio are free to use, and can either be installed locally on your computer, or can be accessed using the Reed RStudio Server: <https://rstudio.reed.edu/>
+
+Throughout the term, we will use GitHub to manage and submit assignments. GitHub is a hosting service to house Git-based projects online, and is designed to assist with version control and collaboration on big projects. <https://github.com/>
+
+**Communication**: If you would like to contact me, I can most easily be reached via Slack message weekdays between 8am and 6pm. While I try to answer messages as soon as possible, in some cases, I may not be able to respond until the following school day. If you'd prefer to talk live, send me a message and we can schedule a time to chat on zoom. 
+
+*********************************************
+
+## Course Outcomes
+
+By the end of the course, a student should be able to:
+- Articulate and compare the different philosophical approaches to prediction, statistical inference, classification, and clustering.
+- Create valid statistical models, perform data analysis using software, and communicate results in non-technical language using reproducible methods in order to answer a particular research question.
+- Implement simulation and randomization algorithms in order to demonstrate and assess properties of statistical models.
+- Assess and compare the performance of a variety of statistical models, and select appropriate models according to suitable criteria.
+- Apply statistical learning techniques to real-world data and problems.
+- Justify and describe properties of particular statistical learning methods by appealing to mathematical theory.
+
+*********************************************
+
+## Course Format
+
+A typical class day will involve the folllowing:
+
+- *Reading Assignment*. Every class will have an assigned reading which you are strongly encouraged to review prior to the start of class.
+- *Active Synchronous Lecture*. Our 50-minute virtual meetings will include an interactive lecture by the instructor, with some time devoted to discussion either class-wide or in small groups. While lectures will be recorded and made available after class, you should plan to attend the lecture live whenever possible.
+- *Group Work*. At least once each week, a majority of class time will be reserved for collaborative coding and group work with your peers. For those who wish to work in-person, an appropriate space will be reserved.
+
+**Workload**:  A prepared student will attend class for 50 minutes per day, three days each week, and spend about two to three hours per day of class on work outside the classroom (reading, doing homework, working on projects, discussing, studying, etc.).  Together, this represents a 9 - 12  hour per week commitment. 
+
+
+*********************************************
+
+## Grading Criteria
+
+Your grade in the class will be determined by your proficiency in each of the *Course Outcomes*, as demonstrated in the following assessments:
+
+1. Homework
+2. Participation
+3. Midterm Exams
+4. Final Exam
+5. Final Project
+
+**Homework**: A weekly problem set will be made available after class on Wednesday, due before the start of class on the following Wednesday. Some time on Monday or Friday of each week will be devoted to collaborative coding components of the assignment. Problem sets must be completed as a .rmd file in RStudio and submitted via GitHub. Detailed submission instructions can be found on the course webpage. Up to two times throughout the term, you may request up to a 5 day extension on your assignment. Except in extraordinary circumstances, requests must be made prior to an assignment's due date.
+
+**In-class Participation**: The online nature of our course means it is easier to become disconnected. Moreover, some days will involve collaborative coding and work on long-term projects. For these reasons, it is important to actively attend each class when able and to participate via discussion and polls. If you are unable to attend class, please notify me in advance. You may miss up to three classes throughout the term without penalty, but more frequent absences will be reflected in your final course grade. Additionally, you are expected to make at least two significant contributions to the Slack workspace each week. Examples of significant contributions can be found on Slack.
+
+**Midterm Exams**: Three take-home exams will be given during the term, and will be made available on a Friday, to be completed before class the following Monday. Tentatively, the first is scheduled for Friday, September 25th (Week 4), the second for Friday, October 23 (Week 8), and the third for November 13th (Week 11). The exams are intended to take between 3 and 4 hours to complete.
+
+**Final Exam**: A cumulative take-home final exam will be given during Finals Week, as scheduled by the Registrar.
+
+**Final Project**: Throughout the second half of the term, you will work in groups of 3 on a project that answers a significant research question using real-world data, by implementing the fundamental techniques developed in our class, as well as some more advanced methods from supplementary sources. The project will culminate in a 20 minute presentation during the last week of class and a 10-15 page reproducible report.
+
+**If illness or other circumstances prevent you from participating in class for 3 or more class days, please let me know as soon as possible so we can make appropriate arrangements for missed work.**
+
+********************************************
+## Policies
+
+**Accessibility**: Reed College is dedicated to creating inclusive learning environments. Please notify me as soon as possible if there are aspects of the instruction or design of this course that result in disability-related barriers to your participation. You are also encouraged to contact Disability & Accessibility Resources at <dar@reed.edu>, and to peruse the services offered on their website at <https://www.reed.edu/disability-resources/>.
+
+**Academic Integrity**: Students are allowed and encouraged to collaborate on most in-class and homework assignments. However, any work that you turn in for grading must be your own.  You are welcome to use internet resources to supplement content we cover in this course, with the exception of solutions to homework problems. Copying solutions from the internet is an Honor Principle violation. Exams will explicitly mention what resources may be consulted. All written work that references material outside of the textbook or lecture should be accompanied by an appropriate citation.
+
+********************************************
+
+## Tentative Schedule
+*This is the schedule as of Day 1. A more up-to-date schedule can be found [here](https://reed-stat-learning-fall-2020.github.io/schedule.html).*
+
+| Week  |  Sections Covered |  Week  | Sections Covered  |
+|---|---|---|---|
+|  1 | Foundations of Stat Learning   |  9 | Tree-Based Models  |
+|  2 | Simple Linear Models  |  10 |  Tree-Based Models |
+|  3 | Multiple Linear Regression  | 11  | Unsupervised Learning (Exam 3)  |
+|  4 | Classification (Exam 1)  | 12 | Unsupervised Learning  |
+|  5 | Classification  |   |  Thanksgiving Break |
+|  6 | Resampling Methods  |   13|  Projects |
+|  7 | Model Selection  | 14  | Reading Week  |
+|  8 | Support Vector Machines (Exam 2)  | 15  | Final Exam  |

@@ -1,0 +1,78 @@
+---
+title: "Homework"
+---
+
+A weekly problem set will be made available after class on Wednesday, due before the start of class on the following Wednesday. Some time on Monday or Friday of each week will be devoted to collaborative coding components of the assignment. Problem sets must be completed as a .rmd file in RStudio and submitted via GitHub. 
+
+
+## Instructions
+
+1. Use the link posted in the #announcements channel on our Slack workspace to accept the assignment and automatically create a corresponding repository in the [class Github organization](https://github.com/Reed-Stat-Learning-Fall-2020).
+
+2. Clone your repo via RStudio to your directory on the Reed RStudio server or to your personal computer. 
+
+3. Complete all problems indicated in the assignment in the supplied .Rmd file. Commit often!
+
+4. Frequently knit your .Rmd file into a .pdf to view the polished product. Make sure you knit one final time before submitting your assignment.
+
+5. When you are ready to submit your assignment, push all commits to both your .Rmd and your .pdf file to your repo on the [class Github organization](https://github.com/Reed-Stat-Learning-Fall-2020) before the assignment deadline. 
+
+6. Navigate to your repo on the class organization and review your .Rmd and .pdf files. What you see in this repo is what will be graded.
+
+7. Feedback on the assignment will available in a pull request which was opened automatically when your assignment repo was created. You will receive email notification once comments have been made. To view the pull request, navigate to your repo on the [class Github organization](https://github.com/Reed-Stat-Learning-Fall-2020), or follow the original link you used to accept the assignment.
+
+
+## Homework 0
+
+[Assignment](homework/hw_0.pdf) ([.Rmd](homework/hw_0.Rmd))
+
+**Due: Friday, 9/4 by 1:35pm**
+
+## Homework 1
+
+[Assignment](homework/hw_1.pdf) ([.Rmd](homework/hw_1.Rmd))
+
+**Due: Wednesday, 9/16 by 1:35pm**
+
+## Homework 2
+
+[Assignment](homework/hw_2.pdf) ([.Rmd](homework/hw_2.Rmd))
+
+**Due: Wednesday, 9/23 by 1:35pm**
+
+## Homework 3
+
+[Assignment](homework/hw_3.pdf) ([.Rmd](homework/hw_3.Rmd))
+
+**Due: Wednesday, 10/7 by 1:35pm**
+
+## Homework 4
+
+[Assignment](homework/hw_4.pdf) ([.Rmd](homework/hw_4.Rmd)) [Data 1](homework/data/wisc.csv) [Data 2]([Data](homework/data/wisc_trn.csv)) [Data 3]([Data](homework/data/wisc_tst.csv))
+
+**Due: Wednesday, 10/14 by 1:35pm**
+
+
+## Homework 5
+
+[Assignment](homework/hw_5.pdf) ([.Rmd](homework/hw_5.Rmd)) [Data](homework/data/stocks.csv)
+
+**Due: Wednesday, 10/21 by 1:35pm**
+
+## Homework 6
+
+[Assignment](homework/hw_6.pdf) ([.Rmd](homework/hw_6.Rmd)) [Data](homework/data/house.csv)
+
+**Due: Wednesday, 11/4 by 1:35pm**
+
+## Homework 7
+
+[Assignment](homework/hw_7.pdf) ([.Rmd](homework/hw_7.Rmd)) [Training Data](homework/data/crime.csv) [Test Data](homework/data/crime_tst.csv) [Data Description](homework/data/data_description_crime.md)
+
+**Due: Wednesday, 11/11 by 1:35pm**
+
+## Homework 8
+
+[Assignment](homework/hw_8.pdf) ([.Rmd](homework/hw_8.Rmd)) [Training Data](homework/data/crime.csv) [Test Data](homework/data/crime_tst.csv) [Data Description](homework/data/data_description_crime.md) [Letters Data](homework/data/lettersdf.csv)
+
+**Due: Wednesday, 11/18 by 1:35pm**

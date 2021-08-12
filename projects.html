@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Projects</title>
+
+<script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/sandstone.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-sm-12 col-md-4 col-lg-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-sm-12 col-md-8 col-lg-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Statistical Learning</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Homepage</a>
+</li>
+<li>
+  <a href="syllabus.html">Syllabus</a>
+</li>
+<li>
+  <a href="schedule.html">Schedule</a>
+</li>
+<li>
+  <a href="homework.html">Homework</a>
+</li>
+<li>
+  <a href="projects.html">Projects</a>
+</li>
+<li>
+  <a href="exams.html">Exams</a>
+</li>
+<li>
+  <a href="resources.html">Resources</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Projects</h1>
+
+</div>
+
+
+<div id="overview" class="section level2">
+<h2>Overview</h2>
+<p>One of the most important functions of the working statistician is to investigate and answer significant research questions by analyzing real-world data, using a variety of elementary and advanced modeling techniques, and to distill the results into reports that are accessible to the non-statistician.</p>
+<p>You will work in small groups to research a topic of interest to you, and then summarize your results in a short presentation to the class and as well as a technical report submitted to me.</p>
+</div>
+<div id="due-dates" class="section level2">
+<h2>Due Dates</h2>
+<ol style="list-style-type: decimal">
+<li><p>Group Membership: Friday, October 23rd by 1:35pm on Slack</p></li>
+<li><p>Project Proposal: Monday, November 2nd by 1:35pm on GitHub</p></li>
+<li><p>Technical Report (Data and Exploratory Data Analysis sections only): Friday, November 20th by 1:35pm on GitHub</p></li>
+<li><p>Technical Report Draft (All sections complete): Monday, December 7th by 5pm on GitHub</p></li>
+<li><p>Presentation Rehearsal: Week of 12/7 - 12/12, individually scheduled</p></li>
+<li><p>Presentation: Monday, December 14th 9am - Noon in class</p></li>
+<li><p>Technical Report: Tuesday, December 15th by 5pm on GitHub</p></li>
+</ol>
+</div>
+<div id="components" class="section level2">
+<h2>Components</h2>
+<div id="groups" class="section level3">
+<h3>Groups</h3>
+<p>You will arrange yourselves into groups of 2 or 3 students each. One person in your group should submit a list of group members to me via Slack message by <strong>1:35pm on Friday, October 23rd</strong>. If you need help finding a group or wish to advertise for another member, please use the <code>#General-Discussion</code> channel on our Slack workspace. On Friday evening, I will sort any students who didn’t express group preferences into groups.</p>
+</div>
+<div id="project-proposal" class="section level3">
+<h3>Project Proposal</h3>
+<p>By <strong>1:35 pm Monday, November 2nd</strong>, your group will draft a well-written project proposal outlining your project and upload the document to your group’s GitHub repository. The proposal should include the following information:</p>
+<ul>
+<li><p>At least 1 paragraph of background information on the topic you wish to study.</p></li>
+<li><p>A precise statement of the research question you wish to answer.</p></li>
+<li><p>A description of the type of data you will use to answer your question.</p></li>
+<li><p>One or two candidates for data sets that you can analyze.</p></li>
+<li><p>At least 1 paragraph describing the utility of an answer to your research question, or a discussion of why an answer would be interesting or relevant to you.</p></li>
+<li><p>A brief discussion of any obstacles you foresee either in data acquisition or analysis.</p></li>
+</ul>
+</div>
+<div id="technical-report" class="section level3">
+<h3>Technical Report</h3>
+<p>A final draft of your technical report is should be uploaded to GitHub by <strong>5pm on Tuesday, December 15th</strong>. The technical report should be a .Rmd file with output either to .pdf or .html. To make sure compiling your document does not take too long, consider adding <code>cache = T</code> to the chunk options for any R chunk requiring substantial computing. Your report should contain the following sections:</p>
+<div id="abstract" class="section level4">
+<h4>Abstract</h4>
+<p>A very brief description of the topic you are investigating, the research question of interest, your methods of analysis, and the general conclusion of your study.</p>
+</div>
+<div id="introduction" class="section level4">
+<h4>Introduction</h4>
+<p>An overview of the topic and relevant background information, a discussion of existing theories and models, a description of how your investigation differs from prior ones, and a precise statement of your research question.</p>
+</div>
+<div id="methods" class="section level4">
+<h4>Methods</h4>
+<p>A description of the data sets used, a discussion of where the data came from and how it was obtained, a summary of the data itself (including the number of observations and variables, and what each observational unit represents), an explanation of data processing implemented to prepare the data for analysis.</p>
+</div>
+<div id="exploratory-data-analysis" class="section level4">
+<h4>Exploratory Data Analysis</h4>
+<p>A presentation of graphical and numerical summaries of the data (along with a discussion of their relevance to modeling assumptions and further analysis), a description of the statistical methods used to analyze your data, and diagnostics of the appropriateness of any models or inference procedures you will apply in the Results section.</p>
+</div>
+<div id="results" class="section level4">
+<h4>Results</h4>
+<p>A description of the tools and methods used to build your models, an overview of the models themselves and a summary of their attributes, a discussion of model comparisons and accuracy, a presentation of model predictions, classifications, and/or parameter inference.</p>
+</div>
+<div id="discussion" class="section level4">
+<h4>Discussion</h4>
+<p>A review of the results generated from the model and synthesis with the context from which the data was generated or observed, a restatement of research objective and an answer to the original research question, a discussion limitations of the study as well as areas for further research.</p>
+</div>
+<div id="code-appendix" class="section level4">
+<h4>Code Appendix</h4>
+<p>A collection of code used to process data, perform analysis, and build models. To avoid excessive run-times when compiling the document, consider adding <code>eval = F</code> to the chunk options (which will force the code not to be run when compiling the document into .pdf or .html)</p>
+</div>
+<div id="references" class="section level4">
+<h4>References</h4>
+<p>The citations for any data sets, literature or resources directly or indirectly referenced in your report, along with any sources you consulted during your investigation that had a significant impact on your analysis. Citations should be made according to the ASA style guide: <a href="https://amstat.tfjournals.com/asa-style-guide/" class="uri">https://amstat.tfjournals.com/asa-style-guide/</a></p>
+</div>
+</div>
+<div id="presentation" class="section level3">
+<h3>Presentation</h3>
+<p>During our final exam time from <strong>9am to noon on Monday, December 14th</strong>, each group will give a 15 - 20 minute presentation on zoom to the class outlining their project and results. Fifteen minutes is <strong>not</strong> a lot of time, so groups should plan carefully what they will discuss. The structure of the talk should mirror the structure of the technical report (albeit greatly abbreviated). Groups should create slides or an .html page that can be screen-shared in order to engage the audience.</p>
+</div>
+</div>
+<div id="example-projects-from-past-years" class="section level2">
+<h2>Example Projects from Past Years</h2>
+<p>The following are a selection of topics and research questions groups investigated in years past. Use this list to get a sense of scope and possibilities for the project.</p>
+<div id="predicting-police-response-time" class="section level3">
+<h3>Predicting Police Response Time</h3>
+<p>This project is an attempt to fit a predictive model on police response time data in order to determine if population density, neighborhood race and income characteristics, and the call type have any significant influence on the time it takes for an officer to be dispatched and the time it takes for a dispatched officer to arrive to the call. We plan on fitting a model using Portland Police Bureau data as training data, and testing the model on different cities such as Los Angeles, Seattle, and Boston.</p>
+</div>
+<div id="yelp-an-exploratory-journey-in-natural-language-processing" class="section level3">
+<h3>Yelp! An Exploratory Journey in Natural Language Processing</h3>
+<p>The Yelp dataset includes over 5 million text reviews from businesses around the world. We aim to predict the number of stars a reviewer gives a business from the text of the review itself. To do so, we take two approaches: connecting review words to sentiment dictionaries and learning from the data itself. Because the nature of our response variable is ordered, we also think about how the fit of our model should be judged using a handful of different error measurements.</p>
+</div>
+<div id="predicting-the-musical-instrument-from-a-recorded-note" class="section level3">
+<h3>Predicting the musical instrument from a recorded note</h3>
+<p>Can we predict the instrument being played from a sound recording? This project will utilize data from isolated sound recordings of different instruments being played, with possible predictors relating to unexplained differences in the frequency wave patterns, the modulation of frequency or amplitude over time, or the prevalence of different overtones in the sound. The goal will be to predict the instrument being played based on a test sound recording.</p>
+</div>
+<div id="nba-player-positions" class="section level3">
+<h3>NBA Player Positions</h3>
+<p>In this project, our group will describe the changes in playstyle types throughout the NBA’s history. We will perform PCA analysis to determine the essential traits for different players, and then use important principal components and unsupervised learning techinques to cluster players into different “types” and see the movement in the proportions of types over time.</p>
+</div>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

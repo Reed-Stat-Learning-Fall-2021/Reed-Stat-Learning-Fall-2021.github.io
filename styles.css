@@ -1,0 +1,35 @@
+.navybox {
+  padding: 1em;
+  background: rgba(44,62,80, 1);
+  color: white;
+  border-radius: 10px;
+}
+.center {
+  text-align: center;
+}
+
+
+.greenbox {
+  padding: 1em;
+  background: rgba(24, 188, 156, 1);
+  color: white;
+  border-radius: 10px;
+}
+.center {
+  text-align: center;
+}
+
+
+.orangebox {
+  padding: 1em;
+  background: rgba(243,156,18, 1);
+  color: white;
+  border-radius: 10px;
+}
+.center {
+  text-align: center;
+}
+
+html {
+  overflow-y: scroll;
+}

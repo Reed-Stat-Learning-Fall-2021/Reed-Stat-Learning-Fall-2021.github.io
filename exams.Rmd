@@ -1,0 +1,105 @@
+---
+title: "Exams"
+---
+
+Three take-home exams will be given during the term, and will be made available on a Friday, to be completed before class the following Monday. Tentatively, the first is scheduled for Friday, September 25th (Week 4), the second for Friday, October 23 (Week 8), and the third for November 13th (Week 11). The exams are intended to take between 3 and 4 hours to complete.
+
+## Exam 1
+
+### Logistics
+
+1. The exam will cover material from Chapter 2 and Chapter 3 of ISLR.
+
+2. The exam will be made available on GitHub at 3pm PDT on Friday, 9-25. A link to the exam will be posted in the #announcements channel on Slack.
+
+3. You must submit your completed exam via pushing any commits to GitHub prior to the start of class on Monday, 9-28.
+
+4. This is a timed exam. You should schedule 3 consecutive hours to work on the exam sometime between Friday and Monday. **Once you accept the assignment by following the GitHub link and creating your exam repo, you must submit your exam by pushing commits within the following 3 hours**. A cumulative 5% grade penalty will be applied for every 10 minutes you exceed this time limit.
+
+
+5. You may freely consult the following references during the exam:
+  - Your ISLR textbook
+  - Any course notes you have taken
+  - Lecture slides on the course website
+  - Homework problems you have submitted
+  - Built-in RStudio help files and cheatsheets
+  
+6. You may not consult any other resources, including (but not limited to):
+  - Classmates
+  - Tutors
+  - Other faculty
+  - Other textbooks
+  - Online help (stackexchange, message boards, etc.)
+  
+  
+7. I will be available to troubleshoot and answer technical questions from noon to 5pm PDT on Sunday. If you run into problems outside of this time frame, document the problem in your exam and message me on slack. I will try to respond as soon as I can, but can't guarantee I will available at that moment. In any case, be sure to submit within 3 hours of accepting the assignment. If the problem is severe enough, we may discuss alternatives.
+
+
+## Exam 2
+
+### Logistics
+
+1. The exam will be lightly cumulative, but with strong emphasis on material from Chapter 4 and Chapter 5 of ISLR.
+
+2. The exam will be made available on GitHub at 3pm PDT on Friday, 10-23. A link to the exam will be posted in the #announcements channel on Slack.
+
+3. You must submit your completed exam via pushing any commits to GitHub prior to 1:35pm PDT on Monday, 10-26.
+
+4. This is a timed exam. You should schedule 3 consecutive hours to work on the exam sometime between Friday and Monday. **Once you accept the assignment by following the GitHub link and creating your exam repo, you must submit your exam by pushing commits within the following 3 hours**. A cumulative 5% grade penalty will be applied for every 10 minutes you exceed this time limit.
+
+
+5. You may freely consult the following references during the exam:
+  - Your ISLR textbook
+  - Any course notes you have taken
+  - Lecture slides on the course website
+  - Homework problems you have submitted
+  - Built-in RStudio help files and cheatsheets
+  
+6. You may not consult any other resources, including (but not limited to):
+  - Classmates
+  - Tutors
+  - Other faculty
+  - Other textbooks
+  - Online help (stackexchange, message boards, etc.)
+  
+  
+7. I will be available to troubleshoot and answer technical questions from noon to 5pm PDT on Sunday 10-25. If you run into problems outside of this time frame, document the problem in your exam and message me on slack. I will try to respond as soon as I can, but can't guarantee I will available at that moment. In any case, be sure to submit within 3 hours of accepting the assignment. If the problem is severe enough, we may discuss alternatives.
+
+
+## Exam 3
+
+### Logistics
+
+1. The exam will be lightly cumulative, but with strong emphasis on material from Chapter 6, 8 and 10.2 of ISLR.
+
+2. The exam will be made available on GitHub at 3pm PDT on Friday, 12-4. A link to the exam will be posted in the #announcements channel on Slack.
+
+3. You must submit your completed exam via pushing any commits to GitHub prior to 1:35pm PDT on Monday, 12-7.
+
+4. This is a timed exam. You should schedule 3 consecutive hours to work on the exam sometime between Friday and Monday. **Once you accept the assignment by following the GitHub link and creating your exam repo, you must submit your exam by pushing commits within the following 3 hours**. A cumulative 5% grade penalty will be applied for every 10 minutes you exceed this time limit.
+
+
+5. You may freely consult the following references during the exam:
+  - Your ISLR textbook
+  - Any course notes you have taken
+  - Lecture slides on the course website
+  - Homework problems you have submitted
+  - Built-in RStudio help files and cheatsheets
+  
+6. You may not consult any other resources, including (but not limited to):
+  - Classmates
+  - Tutors
+  - Other faculty
+  - Other textbooks
+  - Online help (stackexchange, message boards, etc.)
+  
+  
+7. I will be available to troubleshoot and answer technical questions from noon to 5pm PDT on Sunday 12-6. If you run into problems outside of this time frame, document the problem in your exam and message me on slack. I will try to respond as soon as I can, but can't guarantee I will available at that moment. In any case, be sure to submit within 3 hours of accepting the assignment. If the problem is severe enough, we may discuss alternatives.
+
+### Revisions
+
+Once comments/provisional scores have been added to your 3rd midterm exam (by Wednesday 12/9), you will have an opportunity to revise your solutions and/or finish incomplete problems. Revisions are due by 5pm Tuesday 12/15 PST. You should spend at most 2 hours revising the exam (although this time doesn't need to be spent consecutive). 
+
+To revise your assignment, pull your midterm3 github repo to your local machine/R Studio server (just pull the existing repo, don't make a clone; the version you pull should have all of your work you submitted on Monday). Then make changes and commit them, and when you are done, push the results back to github repo. 
+
+Your final score on the exam will be a weighted average of your provisional score and your score on the revisions. You may use any resources allowed for homework assignments, including office hours, tutors, collaboration with peers, etc. However, you **must** clearly cite any resources you used that were not permitted on the original exam  i.e. you don't need to cite your notes (since they were allowed on the original exam), but if you discuss the problems with others in the class, you should explicitly indicate who you collaborated with.

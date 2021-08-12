@@ -1,0 +1,46 @@
+---
+title: "Resources"
+---
+
+A list of helpful resources.
+
+## GitHub
+
+
+
+Instructions for working with Git and GitHub using the RStudio IDE, along with advice for a productive Git workflow:
+
+[Happy Git and GitHub for the useR](http://happygitwithr.com/)
+
+## R and RStudio
+
+If you are new to R or need a refresher, you can sign-up for a free semester-long subscription to DataCamp here (link pending). Recommended courses:
+  - *Introduction to Data Visualization with ggplot2*
+  - *Data Manipulation with dplyr in R*
+  
+The [Cookbook for R](http://www.cookbook-r.com/) and the [R Graphics Cookbook](https://r-graphics.org/) are good in-depth references for the fundamentals of R and ggplot2.
+
+For quick reference, RStudio publishes several cheatsheets, like the [Visualization Cheatsheet (ggplot2)](http://www.rstudio.com/wp-content/uploads/2015/12/ggplot2-cheatsheet-2.0.pdf) and the [Data Wrangling Cheatsheet (dplyr)](http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
+
+You may find it helpful to install R and RStudio locally. This [tutorial](http://www.reed.edu/data-at-reed/software/R/r_studio.html) will guide you through the process.
+
+## Help and Tutoring
+
+### Instructor's Office Hours 
+
+Nate's virtual office can be attended using this permanent zoom link <https://zoom.us/my/wellsj392>, and are held at the following times:
+
+  - Tuesday 6-7pm
+  - Wednesday 10-11am
+  - Thursday 2-3pm
+  - Friday 10-11am
+
+Feel free to just drop-in, no appointment necessary.
+
+### Course Assistant's Office Hours
+
+Tim Shinners will be holding virtual office hours here (link pending) at the following times (times TBA):
+
+### Peer Tutoring
+
+Reed College provides each student one free hour of [individual tutoring](https://www.reed.edu/academic_support/tutoring.html#Individual%20tutoring) per course, per week. Book an individual tutor using the [Reed Tutoring App](https://iris.reed.edu/tutor/tutors/profiles).
