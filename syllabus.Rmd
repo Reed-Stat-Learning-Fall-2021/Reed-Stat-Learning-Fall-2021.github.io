@@ -8,21 +8,25 @@ title: "Syllabus"
 
 **Email**: <wellsj@reed.edu>
 
-**Classroom**: <https://zoom.us/j/99813563912> (password available in Slack)
+**Classroom**: Library 389
 
-**Virtual Office**: <https://zoom.us/my/wellsj392>
+**Office**: Library 392
 
-**Virtual Office Hours**: Tuesday 6-7pm, Wednesday 10-11am, Thursday 2-3pm, Friday 10-11am; or by appointment
+**Office Hours**: TBA
 
 *********************************************
 
 ## Course Information
 
-**Course Description**: This course is an overview of modern approaches to analyzing large and complex data sets that arise in a variety of fields from biology to marketing to astrophysics. The most important modeling and predictive techniques will be covered, including regression, classification, clustering, resampling, and tree-based methods. There will be several projects throughout the course, which will require significant programming in R.
+### Course Description
+
+This course is an overview of modern approaches to analyzing large and complex data sets that arise in a variety of fields from biology to marketing to astrophysics. The most important modeling and predictive techniques will be covered, including regression, classification, clustering, resampling, and tree-based methods. This course will make extensive use of the R programming language.
 
 **Prerequisites**: MATH141, or Instructor Consent.
 
-**Distribution Requirements**: This course can be used towards your Group III, “Natural, Mathematical, and Psychological Science,” requirement. It accomplishes the following learning goals for the group:
+### Distribution Requirements
+
+his course can be used towards your Group III, “Natural, Mathematical, and Psychological Science,” requirement. It accomplishes the following learning goals for the group:
 
 1. Use and evaluate quantitative data or modeling, or use logical/mathematical reasoning to evaluate, test or prove statements.
 2. Given a problem or question, formulate a hypothesis or conjecture, and design an experiment, collect data or use mathematical reasoning to test or validate it.
@@ -30,28 +34,36 @@ title: "Syllabus"
 
 This course does not satisfy the "primary data collection and analysis" requirement.
 
-**Textbook**:
-
-- (Primary) *An Introduction to Statistical Learning*, 1st Edition by James, Witten, Hastie, and Tibshirani. Free online access to the textbook is available at SpringerLink <https://link.springer.com/book/10.1007%2F978-1-4614-7138-7>
-- (Secondary) *Applied Predictive Modeling*, 1st Edition by Kuhn and Johnson. We will use select content from this text to supplement \textit{ISL}. Free online access to the textbook is available at SpringerLink
-<https://link.springer.com/book/10.1007%2F978-1-4614-6849-3>
-
-**Course Resources**: The following web-based resources will be used for communicating class information:
-
-- Slack <reedmath391fall2020.slack.com> (*announcements, discussions, direct messaging*).
-
-- Course Website <https://Reed-Stat-Learning-Fall-2020.github.io> (*documents, a daily schedule, assignments*).
-
-- GitHub Classroom <https://classroom.github.com/classrooms/69487382-reed-stat-learning-fall-2020-classroom> (*homework submission*).
+### Textbook
 
 
-**Technology**: Our class will be conducted primarily online using Zoom. You will need the following during our scheduled class time: a computer with stable internet access, a webcam and microphone, a location where you can carry out a conversation at normal volume. 
+Students do not need to purchase paper copies of texts.
+
+- (Primary) *An Introduction to Statistical Learning*, 2nd Edition (2021) by James, Witten, Hastie, and Tibshirani. A free pdf can be obtained through [SpringerLink](https://link-springer-com.proxy.library.reed.edu/book/10.1007/978-1-0716-1418-1) (log-in using your Reed credentials)
+- (Secondary) *Applied Predictive Modeling*, 1st Edition by Kuhn and Johnson. We will use select content from this text to supplement \textit{ISLR}. A free pdf can be obtained through [SpringerLink](https://link-springer-com.proxy.library.reed.edu/book/10.1007%2F978-1-4614-6849-3) (log-in using your Reed credentials)
+
+### Course Resources
+
+The following web-based resources will be used for communicating class information:
+
+- Slack <https://reedmath141fall2021.slack.com> (*announcements, discussions, direct messaging*).
+
+- Course Website <https://Reed-Stat-Learning-Fall-2021.github.io> (*documents, a daily schedule, assignments*).
+
+- GitHub Classroom <https://classroom.github.com/classrooms/88862064-reed-stat-learning-fall-2021-classroom> (*homework submission*).
+
+
+### Technology
+
+You are encouraged to bring a personal computer to class each day for notetaking and live coding. Access to a computer with webbrowser will be required for homework completion and submission. Computing \& Information Services offers programs for long-term laptop loan: <https://www.reed.edu/cis/facilities/student-technology-equipment-program.html>
 
 We will make very frequent use of the R programming language to create statistical models, run simulations, and implement stat learning algorithms. All homework will be completed using the RStudio IDE. R and RStudio are free to use, and can either be installed locally on your computer, or can be accessed using the Reed RStudio Server: <https://rstudio.reed.edu/>
 
 Throughout the term, we will use GitHub to manage and submit assignments. GitHub is a hosting service to house Git-based projects online, and is designed to assist with version control and collaboration on big projects. <https://github.com/>
 
-**Communication**: If you would like to contact me, I can most easily be reached via Slack message weekdays between 8am and 6pm. While I try to answer messages as soon as possible, in some cases, I may not be able to respond until the following school day. If you'd prefer to talk live, send me a message and we can schedule a time to chat on zoom. 
+### Communication
+
+If you would like to contact me, I can most easily be reached via Slack message weekdays between 8am and 6pm. While I try to answer messages as soon as possible, in some cases, I may not be able to respond until the following school day. If you'd prefer to talk live, send me a message and we can schedule a time to chat on zoom. 
 
 *********************************************
 
@@ -69,13 +81,16 @@ By the end of the course, a student should be able to:
 
 ## Course Format
 
-A typical class day will involve the folllowing:
+
+A typical class day will involve the following:
 
 - *Reading Assignment*. Every class will have an assigned reading which you are strongly encouraged to review prior to the start of class.
-- *Active Synchronous Lecture*. Our 50-minute virtual meetings will include an interactive lecture by the instructor, with some time devoted to discussion either class-wide or in small groups. While lectures will be recorded and made available after class, you should plan to attend the lecture live whenever possible.
-- *Group Work*. At least once each week, a majority of class time will be reserved for collaborative coding and group work with your peers. For those who wish to work in-person, an appropriate space will be reserved.
+- *Active Lectures*. Our 50-minute class meetings will include an interactive lecture by the instructor, with some time devoted to discussion either class-wide or in small groups.
+- *Group Work*. At least once each week, a majority of class time will be reserved for collaborative coding and group work with your peers. Students should bring a personal laptop computer to class on these days.
 
-**Workload**:  A prepared student will attend class for 50 minutes per day, three days each week, and spend about two to three hours per day of class on work outside the classroom (reading, doing homework, working on projects, discussing, studying, etc.).  Together, this represents a 9 - 12  hour per week commitment. 
+### Workload
+
+A prepared student will attend class for 50 minutes per day, three days each week, and spend about two to three hours per day of class on work outside the classroom (reading, doing homework, working on projects, discussing, studying, etc.).  Together, this represents a 9 - 12  hour per week commitment. 
 
 
 *********************************************
@@ -87,40 +102,59 @@ Your grade in the class will be determined by your proficiency in each of the *C
 1. Homework
 2. Participation
 3. Midterm Exams
-4. Final Exam
-5. Final Project
+4. Final Project
 
-**Homework**: A weekly problem set will be made available after class on Wednesday, due before the start of class on the following Wednesday. Some time on Monday or Friday of each week will be devoted to collaborative coding components of the assignment. Problem sets must be completed as a .rmd file in RStudio and submitted via GitHub. Detailed submission instructions can be found on the course webpage. Up to two times throughout the term, you may request up to a 5 day extension on your assignment. Except in extraordinary circumstances, requests must be made prior to an assignment's due date.
+### Homework
 
-**In-class Participation**: The online nature of our course means it is easier to become disconnected. Moreover, some days will involve collaborative coding and work on long-term projects. For these reasons, it is important to actively attend each class when able and to participate via discussion and polls. If you are unable to attend class, please notify me in advance. You may miss up to three classes throughout the term without penalty, but more frequent absences will be reflected in your final course grade. Additionally, you are expected to make at least two significant contributions to the Slack workspace each week. Examples of significant contributions can be found on Slack.
+A weekly problem set will be made available after class on Wednesday, due before the start of class on the following Wednesday. Some time on Monday or Friday of each week will be devoted to collaborative coding components of the assignment. Problem sets must be completed as a .rmd file in RStudio and submitted via GitHub. Detailed submission instructions can be found on the [course webpage](link). Up to two times throughout the term, you may request up to a 5 day extension on your assignment. Except in extraordinary circumstances, requests must be made prior to an assignment's due date.
 
-**Midterm Exams**: Three take-home exams will be given during the term, and will be made available on a Friday, to be completed before class the following Monday. Tentatively, the first is scheduled for Friday, September 25th (Week 4), the second for Friday, October 23 (Week 8), and the third for November 13th (Week 11). The exams are intended to take between 3 and 4 hours to complete.
+### In-class Participation
 
-**Final Exam**: A cumulative take-home final exam will be given during Finals Week, as scheduled by the Registrar.
+It is important to attend each class when able and to actively participate via notetaking and discussion. If you are unable to attend class, please notify me in advance. You may miss up to three classes throughout the term without penalty, but more frequent absences will be reflected in your final course grade. Additionally, you are expected to make at least one significant contributions to the Slack workspace each week. Examples of significant contributions can be found on Slack.
 
-**Final Project**: Throughout the second half of the term, you will work in groups of 3 on a project that answers a significant research question using real-world data, by implementing the fundamental techniques developed in our class, as well as some more advanced methods from supplementary sources. The project will culminate in a 20 minute presentation during the last week of class and a 10-15 page reproducible report.
+### Midterm Exams 
+
+Two take-home exams will be given during the term, and will be made available on a Friday, to be completed before class the following Monday. Tentatively, the first is scheduled for Friday, October 8th (Week 6) and the second for Friday, November 19 (Week 11). The exams are intended to take between 3 and 4 hours to complete.
+
+### Final Project
+
+Throughout the second half of the term, you will work in groups of 3 or 4 on a project that answers a significant research question using real-world data, by implementing the fundamental techniques developed in our class, as well as some more advanced methods from supplementary sources. The project will culminate in a 20 minute presentation during finals week and a 5-10 page reproducible technical report.
 
 **If illness or other circumstances prevent you from participating in class for 3 or more class days, please let me know as soon as possible so we can make appropriate arrangements for missed work.**
 
 ********************************************
 ## Policies
 
-**Accessibility**: Reed College is dedicated to creating inclusive learning environments. Please notify me as soon as possible if there are aspects of the instruction or design of this course that result in disability-related barriers to your participation. You are also encouraged to contact Disability & Accessibility Resources at <dar@reed.edu>, and to peruse the services offered on their website at <https://www.reed.edu/disability-resources/>.
+### Accessibility
 
-**Academic Integrity**: Students are allowed and encouraged to collaborate on most in-class and homework assignments. However, any work that you turn in for grading must be your own.  You are welcome to use internet resources to supplement content we cover in this course, with the exception of solutions to homework problems. Copying solutions from the internet is an Honor Principle violation. Exams will explicitly mention what resources may be consulted. All written work that references material outside of the textbook or lecture should be accompanied by an appropriate citation.
+Reed College is dedicated to creating inclusive learning environments. Please notify me as soon as possible if there are aspects of the instruction or design of this course that result in disability-related barriers to your participation. You are also encouraged to contact Disability & Accessibility Resources at <dar@reed.edu>, and to peruse the services offered on their website at <https://www.reed.edu/disability-resources/>.
+
+### Academic Integrity
+
+Students are allowed and encouraged to collaborate on most in-class and homework assignments. However, any work that you turn in for grading must be your own.  You are welcome to use internet resources to supplement content we cover in this course, with the exception of solutions to homework problems. Copying solutions from the internet is an Honor Principle violation. Exams will explicitly mention what resources may be consulted. All written work that references material outside of the textbook or lecture should be accompanied by an appropriate citation.
+
+### Code of Conduct
+
+I expect all members of Math 243 to make participation a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+
+We expect everyone to act and interact in ways that contribute to an open, welcoming diverse, inclusive, and healthy community of learners. Examples of unacceptable behavior include: using sexualized language or imagery, making insulting or derogatory comments, harassing someone publicly or privately, or other unprofessional conduct.
+
+Instead you can contribute to a positive learning environment by demonstrating empathy and kindness, being respectful of differing viewpoints and experiences, and giving and gracefully accepting constructive feedback.
+
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/), version 2.0
 
 ********************************************
 
 ## Tentative Schedule
-*This is the schedule as of Day 1. A more up-to-date schedule can be found [here](https://reed-stat-learning-fall-2020.github.io/schedule.html).*
+*This is the schedule as of Day 1. A more up-to-date schedule can be found [here](https://reed-stat-learning-fall-2021.github.io/schedule.html).*
 
 | Week  |  Sections Covered |  Week  | Sections Covered  |
 |---|---|---|---|
-|  1 | Foundations of Stat Learning   |  9 | Tree-Based Models  |
-|  2 | Simple Linear Models  |  10 |  Tree-Based Models |
-|  3 | Multiple Linear Regression  | 11  | Unsupervised Learning (Exam 3)  |
-|  4 | Classification (Exam 1)  | 12 | Unsupervised Learning  |
-|  5 | Classification  |   |  Thanksgiving Break |
-|  6 | Resampling Methods  |   13|  Projects |
-|  7 | Model Selection  | 14  | Reading Week  |
-|  8 | Support Vector Machines (Exam 2)  | 15  | Final Exam  |
+|  1 | Foundations of Stat Learning   |  8  | Tree-Based Models  |
+|  2 | Linear Models                  |  9  | Tree-Based Models |
+|  3 | Resampling Methods             |  10 | Support Vector Machines  |
+|  4 | Model Selection                |  11 | Unsupervised Learning (Exam 2) |
+|  5 | Beyond Linear Models           |  12 | Unsupervised Learning  |
+|  6 | Classification (Exam 2)        |  13 | Special Topics |
+|  7 | Classification                 |  14 | Reading Period  |
+|    | **Fall Break**                 |  15 | Presentations  |

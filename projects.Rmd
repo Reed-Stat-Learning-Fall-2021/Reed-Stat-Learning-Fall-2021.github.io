@@ -9,19 +9,19 @@ You will work in small groups to research a topic of interest to you, and then s
 
 ## Due Dates
 
-1. Group Membership: Friday, October 23rd by 1:35pm on Slack
+1. Group Membership: Friday, October 8th (Week 6) by 5pm on Slack
 
-2. Project Proposal: Monday, November 2nd by 1:35pm on GitHub
+2. Project Proposal: Friday, October 15th (Week 7) by 5pm on GitHub
 
-3. Technical Report (Data and Exploratory Data Analysis sections only): Friday, November 20th by 1:35pm on GitHub
+3. Technical Report (Data and Exploratory Data Analysis sections only): Friday, November 12th (Week 10) by 5pm on GitHub
 
-4. Technical Report Draft (All sections complete): Monday, December 7th by 5pm on GitHub
+4. Technical Report Draft (All sections complete): Wednesday, December 8th (Week 14) by 5pm on GitHub
 
-5. Presentation Rehearsal: Week of 12/7 - 12/12, individually scheduled
+5. Presentation Rehearsal: Week of 12/6 - 12/12, individually scheduled
 
-6. Presentation: Monday, December 14th 9am - Noon in class
+6. Presentation: Finals Week, time TBA
 
-7. Technical Report: Tuesday, December 15th by 5pm on GitHub
+7. Final Technical Report: Thursday, December 16th by 5pm on GitHub
 
 
 
@@ -29,11 +29,11 @@ You will work in small groups to research a topic of interest to you, and then s
 
 ### Groups
 
-You will arrange yourselves into groups of 2 or 3 students each. One person in your group should submit a list of group members to me via Slack message by **1:35pm on Friday, October 23rd**. If you need help finding a group or wish to advertise for another member, please use the `#General-Discussion` channel on our Slack workspace. On Friday evening, I will sort any students who didn't express group preferences into groups.
+You will arrange yourselves into groups of 3 or 4 students each. One person in your group should submit a list of group members to me via Slack message by **5pm on Friday, October 8th**. If you need help finding a group or wish to advertise for another member, please use the `#General-Discussion` channel on our Slack workspace. On Friday evening, I will sort any students who didn't express group preferences into groups.
 
 ### Project Proposal
 
-By **1:35 pm Monday, November 2nd**, your group will draft a well-written project proposal outlining your project and upload the document to your group's GitHub repository. The proposal should include the following information:
+By **5pm Friday, October 15th**, your group will draft a well-written project proposal outlining your project and upload the document to your group's GitHub repository. The proposal should include the following information:
 
 - At least 1 paragraph of background information on the topic you wish to study.
 
@@ -49,7 +49,7 @@ By **1:35 pm Monday, November 2nd**, your group will draft a well-written projec
 
 ### Technical Report
 
-A final draft of your technical report is should be uploaded to GitHub by **5pm on Tuesday, December 15th**. The  technical report should be a .Rmd file with output either to .pdf or .html. To make sure compiling your document does not take too long, consider adding `cache = T` to the chunk options for any R chunk requiring substantial computing. Your report should contain the following sections:
+A final draft of your technical report is should be uploaded to GitHub by **5pm on Thursday, December 16th**. The  technical report should be a .Rmd file with output either to .pdf or .html. To make sure compiling your document does not take too long, consider adding `cache = T` to the chunk options for any R chunk requiring substantial computing. Your report should contain the following sections:
 
 #### Abstract
 
@@ -85,7 +85,7 @@ The citations for any data sets, literature or resources directly or indirectly 
 
 ### Presentation
 
-During our final exam time from **9am to noon on Monday, December 14th**, each group will give a 15 - 20 minute presentation on zoom to the class outlining their project and results. Fifteen minutes is **not** a lot of time, so groups should plan carefully what they will discuss. The structure of the talk should mirror the structure of the technical report (albeit greatly abbreviated). Groups should create slides or an .html page that can be screen-shared in order to engage the audience.
+During finals week, each group will give a 15 - 20 minute presentation to the class outlining their project and results. Fifteen minutes is **not** a lot of time, so groups should plan carefully what they will discuss. The structure of the talk should mirror the structure of the technical report (albeit greatly abbreviated). Groups should create slides or an .html page that can be projected in order to engage the audience.
 
 ## Example Projects from Past Years
 

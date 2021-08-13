@@ -14,8 +14,10 @@ Instructions for working with Git and GitHub using the RStudio IDE, along with a
 
 ## R and RStudio
 
-If you are new to R or need a refresher, you can sign-up for a free semester-long subscription to DataCamp here (link pending). Recommended courses:
+If you are new to R or need a refresher, you can sign-up for a free semester-long subscription to DataCamp (link available in Slack). Recommended courses:
+
   - *Introduction to Data Visualization with ggplot2*
+  
   - *Data Manipulation with dplyr in R*
   
 The [Cookbook for R](http://www.cookbook-r.com/) and the [R Graphics Cookbook](https://r-graphics.org/) are good in-depth references for the fundamentals of R and ggplot2.
@@ -28,18 +30,19 @@ You may find it helpful to install R and RStudio locally. This [tutorial](http:/
 
 ### Instructor's Office Hours 
 
-Nate's virtual office can be attended using this permanent zoom link <https://zoom.us/my/wellsj392>, and are held at the following times:
+Nate's office hours are
 
-  - Tuesday 6-7pm
-  - Wednesday 10-11am
-  - Thursday 2-3pm
-  - Friday 10-11am
+  - TBA
 
 Feel free to just drop-in, no appointment necessary.
 
 ### Course Assistant's Office Hours
 
-Tim Shinners will be holding virtual office hours here (link pending) at the following times (times TBA):
+[Course Assistant's] office hours are
+
+  - TBA
+
+
 
 ### Peer Tutoring
 
