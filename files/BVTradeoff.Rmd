@@ -1,0 +1,32 @@
+---
+title: "BV TRADEOFF"
+author: "Wells"
+date: "8/13/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(ggforce)
+```
+
+```{r}
+set.seed(21222)
+c_vec <- rev(c('#ca0020','#f4a582','#f7f7f7','#92c5de','#0571b0'))
+#c_vec <- rev(c('#7b3294','#c2a5cf','#f7f7f7','#a6dba0','#008837'))
+c_vec <-  c('lightgray','black','#386cb0','#ca0020','yellow')
+
+n<-15
+
+circles <- data.frame(id = as.factor(5:1), x0 = rep(0,5), y0 = rep(0,5), r = 1:5)
+high_var <- data.frame(x = rnorm(n,-.5,1), y = rnorm(n,-.25,.75) )
+high_bias <- data.frame(x = rnorm(n,1.75,.4), y = rnorm(n,2,.25) )
+
+ggplot() + 
+  geom_circle(data = circles, aes(x0 = x0, y0 = y0, r = r, fill = id), n =720, show.legend = F)+
+  geom_point(data = high_var, aes(x = x, y = y), shape = 21, color ="white", fill = "black", size = 3 )+
+  geom_point(data = high_bias, aes(x = x, y = y), shape = 21, color = "black", fill = "white", size = 3 )+
+  coord_fixed()+scale_fill_manual(values = c_vec )+theme_void()
+```
+
