@@ -30,15 +30,17 @@ You may find it helpful to install R and RStudio locally. This [tutorial](http:/
 
 ### Instructor's Office Hours 
 
-Nate's office hours are
+- **Office**: Library 392
 
-  - TBA
+- **In-person Office Hours**: M 3-4pm, W 10-11am, F 10-11am
+
+- **Virtual Office Hours**: T 6-7pm
+
+- **Zoom Link**: https://zoom.us/my/wellsj392
 
 Feel free to just drop-in, no appointment necessary.
 
 ### Course Assistant's Office Hours
-
-[Course Assistant's] office hours are
 
   - TBA
 
