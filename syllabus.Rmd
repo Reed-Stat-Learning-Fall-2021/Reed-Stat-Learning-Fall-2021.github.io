@@ -110,11 +110,14 @@ Your grade in the class will be determined by your proficiency in each of the *C
 
 ### Homework
 
-A weekly problem set will be made available after class on Wednesday, due before the start of class on the following Wednesday. Some time on Monday or Friday of each week will be devoted to collaborative coding components of the assignment. Problem sets must be completed as a .rmd file in RStudio and submitted via GitHub. Detailed submission instructions can be found on the [course webpage](link). Up to two times throughout the term, you may request up to a 5 day extension on your assignment. Except in extraordinary circumstances, requests must be made prior to an assignment's due date.
+A weekly problem set will be made available after class on Wednesday, due by 5pm on the following Wednesday. Some time on Monday or Friday of each week will be devoted to collaborative coding components of the assignment. Problem sets must be completed as a .rmd file in RStudio and submitted via GitHub. Detailed submission instructions can be found on the [course webpage](link). Up to two times throughout the term, you may request up to a 5 day extension on your assignment. Except in extraordinary circumstances, requests must be made prior to an assignment's due date.
 
 ### In-class Participation
 
-It is important to attend each class when able and to actively participate via notetaking and discussion. If you are unable to attend class, please notify me in advance. You may miss up to three classes throughout the term without penalty, but more frequent absences will be reflected in your final course grade. Additionally, you are expected to make at least one significant contributions to the Slack workspace each week. Examples of significant contributions can be found on Slack.
+It is important to attend each class when able and to actively participate via notetaking and discussion. If you are unable to attend class, please notify me in advance. You may miss up to three classes throughout the term without penalty, but more frequent absences will be reflected in your final course grade. 
+
+**Please do not come to class if you are ill, or if you've had close exposure to someone else who has been ill. Instead, contact me via Slack message or email, and we will make appropriate arrangements to make-up missed work.**
+
 
 ### Midterm Exams 
 
@@ -124,28 +127,38 @@ Two take-home exams will be given during the term, and will be made available on
 
 Throughout the second half of the term, you will work in groups of 3 or 4 on a project that answers a significant research question using real-world data, by implementing the fundamental techniques developed in our class, as well as some more advanced methods from supplementary sources. The project will culminate in a 20 minute presentation during finals week and a 5-10 page reproducible technical report.
 
-**If illness or other circumstances prevent you from participating in class for 3 or more class days, please let me know as soon as possible so we can make appropriate arrangements for missed work.**
 
 ********************************************
-## Policies
+
+## Community Information
 
 ### Accessibility
 
-Reed College is dedicated to creating inclusive learning environments. Please notify me as soon as possible if there are aspects of the instruction or design of this course that result in disability-related barriers to your participation. You are also encouraged to contact Disability & Accessibility Resources at <dar@reed.edu>, and to peruse the services offered on their website at <https://www.reed.edu/disability-resources/>.
+Reed College is committed to creating inclusive and accommodating learning environments. Please notify me as soon as possible if there are aspects of the instruction or design of this course that result in barriers to your participation. I also encourage you to contact Disability \& Accessibility Resources (DAR) at <https://www.reed.edu/disability-resources/> for additional support, including official accommodations. If you have already been approved for accommodations, please have DAR provide a letter during the first week of classes, or as soon as possible after approval. I will then contact you to schedule a meeting during which we can discuss the particular implementation of your accommodations. 
 
 ### Academic Integrity
 
-Students are allowed and encouraged to collaborate on most in-class and homework assignments. However, any work that you turn in for grading must be your own.  You are welcome to use internet resources to supplement content we cover in this course, with the exception of solutions to homework problems. Copying solutions from the internet is an Honor Principle violation. Exams will explicitly mention what resources may be consulted. All written work that references material outside of the textbook or lecture should be accompanied by an appropriate citation.
+Students are allowed and encouraged to collaborate on most in-class and homework assignments. However, any work that you turn in for grading must be your own.  You are welcome to use other paper or internet resources to supplement content we cover in this course, with the exception of solutions to homework problems. Copying solutions from the internet or other sources is an Honor Principle violation. Exams will explicitly mention what resources may be consulted. All written work that references material outside of the textbook or lecture should be accompanied by an appropriate citation.
 
 ### Code of Conduct
 
 I expect all members of Math 243 to make participation a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-We expect everyone to act and interact in ways that contribute to an open, welcoming diverse, inclusive, and healthy community of learners. Examples of unacceptable behavior include: using sexualized language or imagery, making insulting or derogatory comments, harassing someone publicly or privately, or other unprofessional conduct.
+I expect everyone to act and interact in ways that contribute to an open, welcoming diverse, inclusive, and healthy community of learners. Examples of unacceptable behavior include: using sexualized language or imagery, making insulting or derogatory comments, harassing someone publicly or privately, or other unprofessional conduct.
 
 Instead you can contribute to a positive learning environment by demonstrating empathy and kindness, being respectful of differing viewpoints and experiences, and giving and gracefully accepting constructive feedback.
 
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/), version 2.0
+### Assignment Feedback
+
+You will receive timely feedback on your homework via GitHub, either from me or the course grader (another mathematics undergraduate). Each homework problem can earn up to five points for statistical content, and two points for the quality of writing and clarity of code. You are strongly encouraged to review comments on your solutions and rework missed problems. You are welcome to post questions about past homework problems on our Slack channel and to talk to me about them during office hours.
+
+### Help
+
+I strongly encourage to attend my office hours each week. You are welcome to come either with specific questions, or just with general uncertainties about content we've discussed. If you are unable to attend scheduled office hours, please message me on Slack to schedule an alternative appointment (either in-person or virtual).
+
+Our course assistant (a Reed undergraduate) will also be holding several help sessions each week to provide assistance with and facilitate collaboration on homework.
+
+Finally, every Reed student is entitled to one hour of free individual tutoring per week. Use the tutoring app in IRIS to schedule meetings with a student tutor.
 
 ********************************************
 
