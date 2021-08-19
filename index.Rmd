@@ -1,5 +1,5 @@
 ---
-title: "Math 243: Statistical Learning. Fall 2021"
+title: "Math 243: Statistical Learning"
 ---
 
 <p style="text-align:center;">  <img    src ="img/bvtradeoff.png" alt = "logo" title="stat learning" width = "400"   />  </p>
