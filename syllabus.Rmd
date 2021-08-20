@@ -103,10 +103,15 @@ A prepared student will attend class for 50 minutes per day, three days each wee
 
 Your grade in the class will be determined by your proficiency in each of the *Course Outcomes*, as demonstrated in the following assessments:
 
-1. Homework
-2. Participation
-3. Midterm Exams
-4. Final Project
+1. Daily Reading
+2. Homework
+3. Participation
+4. Midterm Exams
+5. Final Project
+
+### Daily Reading
+
+Statistical knowledge takes time to develop, and understanding deepens upon revisiting a concept a $2^\text{nd}$, $3^\text{rd}$, or $n^\text{th}$ time. Studying basic terminology and elementary examples in the textbook before class means that class can be spent clarifying and expanding ideas, rather than introducing them. Daily reading assignments will be posted on our course webpage, and will list the specific section(s) to read for each day, along witha few response questions, to be completed and sent to me via Slack message by 8am each day of class (to give me time to review them before class). The questions are not intended to be overly difficult, but should help both you and I highlight topics that need further review. Responses will be assessed primarily on the basis of completion. No extensions on daily readings will be given, but up to three assignments may be missed without penalty. 
 
 ### Homework
 
@@ -114,9 +119,9 @@ A weekly problem set will be made available after class on Wednesday, due by 5pm
 
 ### In-class Participation
 
-It is important to attend each class when able and to actively participate via notetaking and discussion. If you are unable to attend class, please notify me in advance. You may miss up to three classes throughout the term without penalty, but more frequent absences will be reflected in your final course grade. 
+It is important to attend each class when able and to actively participate via notetaking and discussion. If you are unable to attend class for any reason, please notify me promptly so that we can make appropriate arrangements for you to make-up missed work. Frequent absences for which make-up work is not completed will be reflected in your final course grade.
 
-**Please do not come to class if you are ill, or if you've had close exposure to someone else who has been ill. Instead, contact me via Slack message or email, and we will make appropriate arrangements to make-up missed work.**
+**Please do not come to class if you are ill, or if you've had close exposure to someone else who has been ill.**
 
 
 ### Midterm Exams 
