@@ -14,7 +14,7 @@ title: "Syllabus"
 
 **In-person Office Hours**: M 3-4pm, W 10-11am, F 10-11am
 
-**Virtual Office Hours**: T 6-7pm
+**Virtual Office Hours**: T 2-3pm
 
 **Zoom Link**: https://zoom.us/my/wellsj392
 
@@ -117,7 +117,7 @@ Your grade in the class will be determined by your proficiency in each of the *C
 
 ### Daily Reading
 
-Statistical knowledge takes time to develop, and understanding deepens upon revisiting a concept a $2^\text{nd}$, $3^\text{rd}$, or $n^\text{th}$ time. Studying basic terminology and elementary examples in the textbook before class means that class can be spent clarifying and expanding ideas, rather than introducing them. Daily reading assignments will be posted on our course webpage, and will list the specific section(s) to read for each day, along witha few response questions, to be completed and sent to me via Slack message by 8am each day of class (to give me time to review them before class). The questions are not intended to be overly difficult, but should help both you and I highlight topics that need further review. Responses will be assessed primarily on the basis of completion. No extensions on daily readings will be given, but up to three assignments may be missed without penalty. 
+Statistical knowledge takes time to develop, and understanding deepens upon revisiting a concept a $2^\text{nd}$, $3^\text{rd}$, or $n^\text{th}$ time. Studying basic terminology and elementary examples in the textbook before class means that class can be spent clarifying and expanding ideas, rather than introducing them. Daily reading assignments will be posted on our course webpage, and will list the specific section(s) to read for each day, along with a response question to be completed by 8am each day of class (to give me time to review them before class). Responses should be posted in the `#daily-reading` channel of our Slack workspace. The questions are not intended to be overly difficult, but should help both you and I highlight topics that need further review. Responses will be assessed primarily on the basis of completion. No extensions on daily readings will be given, but up to three assignments may be missed without penalty. 
 
 ### Homework
 
