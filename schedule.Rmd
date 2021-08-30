@@ -10,7 +10,8 @@ title: "Schedule"
 #### Topics
 
 - Course Logistics
-- How old am I?
+- How old??
+  - [Faculty Photos](pages/age.html)
 
 #### Reading Assignment
 
@@ -19,6 +20,7 @@ title: "Schedule"
 - Review the syllabus
 
 #### Due
+(Before the start of class on Monday)
 
 
 - Complete Slack Introduction:
@@ -51,11 +53,19 @@ title: "Schedule"
 
 *Note that the listed reading assignments should be completed prior to class*
 
-- Chapter 1 and Section 2.1 (p 1-29) in *Introduction to Statistical Learning*
+- Chapter 1 and Section 2.1 in *Introduction to Statistical Learning*
 
 - [Chapter 1](https://happygitwithr.com/big-picture.html) and [Chapter 4](https://happygitwithr.com/github-acct.html) in [Happy Git and GitHub for the useR](https://happygitwithr.com/)
 
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack.
+
+1. 
+
 #### Due
+
+(Before the start of class on Wednesday)
 
 - Sign up for a [GitHub](https://github.com) account.
 
@@ -72,9 +82,17 @@ title: "Schedule"
 
 *Note that the listed reading assignments should be completed prior to class*
 
-- Review Section 2.1 (p 15-29) in *ISLR*
+- Review Section 2.1 in *ISLR*
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack.
+
+1. 
 
 #### Due
+
+(By 5pm on Friday)
 
 - Homework 0. (Use the link in the #announcments channel to create your repo and view the assignment. Make sure you push any commits you make before 9am on Friday.)
 
