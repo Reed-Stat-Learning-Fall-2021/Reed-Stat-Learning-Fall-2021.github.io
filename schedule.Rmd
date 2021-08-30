@@ -24,7 +24,7 @@ title: "Schedule"
 
 
 - Complete Slack Introduction:
-  1. Sign-in to our [Slack workspace](reedmath243fall2021.slack.com)
+  1. Sign-in to our [Slack workspace](https://reedmath243fall2021.slack.com)
   2. Think of your favorite book or movie. Then navigate to the `#general-discussion` channel using the menu on the left side of the screen and post a message with your name and pronouns (if you choose to share), along with 2 facts about yourself, one of which you think will make it *easier* to guess your favorite book or movie, and the other of which you think will make it *harder* to guess (don't say which is which). You will need to monitor your post and respond to yes or no questions about your favorite book / movie. *At the end of the first week, prizes will be awarded to the people whose book / movie was guessed in the fewest and in the greatest number of questions.*
   
   3. Find another another person's post, hover over it, and click the chat bubble icon to start or continue a thread. Then ask a yes or no question that can be used to help deduce the identity of the person's favorite book or movie. Repeat for at least 3 other people.
