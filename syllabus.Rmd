@@ -50,7 +50,7 @@ Students do not need to purchase paper copies of texts.
 
 The following web-based resources will be used for communicating class information:
 
-- Slack <https://reedmath141fall2021.slack.com> (*announcements, discussions, direct messaging*).
+- Slack <https://reedmath243fall2021.slack.com> (*announcements, discussions, direct messaging*).
 
 - Course Website <https://Reed-Stat-Learning-Fall-2021.github.io> (*documents, a daily schedule, assignments*).
 
