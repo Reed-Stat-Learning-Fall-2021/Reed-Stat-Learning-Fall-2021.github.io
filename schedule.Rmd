@@ -61,6 +61,8 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 1. What is your GitHub user name?
 
+2. (Optional) What is one question you have about Git and GitHub?
+
 #### Due
 
 (Before the start of class on Wednesday)
