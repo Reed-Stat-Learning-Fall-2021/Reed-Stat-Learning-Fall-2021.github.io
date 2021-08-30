@@ -59,7 +59,7 @@ title: "Schedule"
 
 Post responses in the `#daily-reading` channel on Slack by 8am.
 
-1. TBA
+1. What is your GitHub user name?
 
 #### Due
 
