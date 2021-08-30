@@ -53,11 +53,11 @@ title: "Schedule"
 
 *Note that the listed reading assignments should be completed prior to class*
 
-- [Chapter 1](https://happygitwithr.com/big-picture.html) and [Chapter 4](https://happygitwithr.com/github-acct.html) in [Happy Git and GitHub for the useR](https://happygitwithr.com/)
+- [Chapter 1](https://happygitwithr.com/big-picture.html), [Chapter 4](https://happygitwithr.com/github-acct.html) and [Chapter 12](https://happygitwithr.com/rstudio-git-github.html) in [Happy Git and GitHub for the useR](https://happygitwithr.com/)
 
 ##### Discussion Question
 
-Post responses in the `#daily-reading` channel on Slack.
+Post responses in the `#daily-reading` channel on Slack by 8am.
 
 1. TBA
 
@@ -84,7 +84,7 @@ Post responses in the `#daily-reading` channel on Slack.
 
 ##### Discussion Question
 
-Post responses in the `#daily-reading` channel on Slack.
+Post responses in the `#daily-reading` channel on Slack by 8am.
 
 1. TBA
 
