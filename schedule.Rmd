@@ -6,7 +6,6 @@ title: "Schedule"
 
 ### Monday 8-30
 
-[Lecture Notes](lecture_notes/8-30_Intro.pdf)
 
 #### Topics
 
@@ -41,7 +40,6 @@ title: "Schedule"
 
 ### Wednesday 9-1
 
-[Lecture Notes](lecture_notes/9-1_GitHub.pdf)
 
 #### Topics
 
@@ -50,8 +48,6 @@ title: "Schedule"
 - GitHub
 
 - GitHub Classroom
-
-  [Working Solo GitHub](files/working_solo_github.pdf)
 
 #### Reading Assignment
 
@@ -92,7 +88,7 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 Post responses in the `#daily-reading` channel on Slack by 8am.
 
-1. TBA
+1. Section 2.1 presented several dichotomies: Inference vs Prediction, Parametric vs Non-parametric, Flexibility vs Interpretability, Supervised vs Unsupervised, Regression vs Classification. Choose one of these dichotomies and briefly summarize it in your own words (3 - 4 sentences).
 
 #### Due
 
