@@ -92,7 +92,7 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 Post responses in the `#daily-reading` channel on Slack by 8am.
 
-1. TBA
+1. Section 2.1 presented several dichotomies: Inference vs Prediction, Parametric vs Non-parametric, Flexibility vs Interpretability, Supervised vs Unsupervised, Regression vs Classification. Choose one of these dichotomies and briefly summarize it in your own words (3 - 4 sentences).
 
 #### Due
 
