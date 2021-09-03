@@ -75,7 +75,7 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 ### Friday 9-3
 
-
+[Lecture Notes](lecture_notes/9-3_Foundations.pdf)
 
 #### Topics
 
