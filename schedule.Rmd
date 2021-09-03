@@ -104,6 +104,39 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 ***********************************************
 
 
-
 ## Week 2
+
+### Monday 9-6
+
+*No class. Labor Day.*
+
+
+### Wednesday 9-8
+
+
+#### Topics
+
+- Decomposing Reducible Error
+
+- The Bias-Variance Tradeoff
+
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- Section 2.2 in *Introduction to Statistical Learning* (ISLR)
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1. TBA
+
+#### Assigned
+
+- Homework 1. (Due 5pm on Wednesday 9-15)
+
+
+ 
  
