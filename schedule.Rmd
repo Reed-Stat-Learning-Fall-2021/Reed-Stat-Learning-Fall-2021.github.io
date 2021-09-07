@@ -131,7 +131,7 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 Post responses in the `#daily-reading` channel on Slack by 8am.
 
-1. TBA
+1. What is one advantage and one disadvantage of a very flexible (versus less flexible) approach for regression and classification?
 
 #### Assigned
 
