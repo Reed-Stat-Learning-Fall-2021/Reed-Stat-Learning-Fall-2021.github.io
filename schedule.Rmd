@@ -113,6 +113,7 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 ### Wednesday 9-8
 
+[Lecture Notes](lecture_notes/9-8_Assessing_Accuracy.pdf)
 
 #### Topics
 
