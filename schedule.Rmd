@@ -138,6 +138,27 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 - Homework 1. (Due 5pm on Wednesday 9-15)
 
+### Friday 9-10
+
+
+
+#### Topics
+
+- K Nearest Neighbors for Regression and Classification
+
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- Chapter 2.1 (p 37 - 42, *The Classification Setting*) and Chapter 3.5 in *Introduction to Statistical Learning* (ISLR 2e)
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1. Consider the seats in our physical classroom Library 389 at 8:55am on Friday. Some of these seats will be empty and some will be filled. Suppose we want to predict whether a particular seat will be filled at the start of class at 9am. Give an informal description of how to use KNN with K = 1, 4, and 10 to predict whether a particular seat will be occupied, just using data about which seats are filled at 8:55.
+
 
  
  
