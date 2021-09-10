@@ -140,12 +140,13 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 ### Friday 9-10
 
-
+[Lecture Notes](lecture_notes/9-10_KNN.pdf)
 
 #### Topics
 
 - K Nearest Neighbors for Regression and Classification
 
+  - [KNN activity .Rmd](files/classification.Rmd)
 
 #### Reading Assignment
 
