@@ -161,5 +161,82 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 1. Consider the seats in our physical classroom Library 389 at 8:55am on Friday. Some of these seats will be empty and some will be filled. Suppose we want to predict whether a particular seat will be filled at the start of class at 9am. Give an informal description of how to use KNN with K = 1, 4, and 10 to predict whether a particular seat will be occupied, just using data about which seats are filled at 8:55.
 
 
+***********************************************
+
+
+## Week 3
+
+### Monday 9-13
+
+#### Topics
+
+- Simple Linear Regression
+
+- Assessing Model Accuracy for Linear Models
+
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- Section 3.1 and 3.6.2 in *Introduction to Statistical Learning* (ISLR)
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1. Give one example of a real-world *prediction* question that could be answered using a simple linear model. Then give an example of a real-world *inference* question that could be answered using a simple linear model.
+
+### Wednesday 9-15
+
+
+
+#### Topics
+
+- Multivariate Linear Regression
+
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- Section 3.2 and 3.6.3 in *Introduction to Statistical Learning* (ISLR)
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1. TBA
+
+#### Assigned
+
+- Homework 2. (Due 5pm on Wednesday 9-22)
+
+#### Due
+
+- Homework 1. (Due 5pm on Wednesday 9-15)
+
+
+
+### Friday 9-17
+
  
+ 
+
+#### Topics
+
+- Extending the linear model
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- Chapter 3.3 and Chapter 3.6.4 - 3.6.6 in *Introduction to Statistical Learning* (ISLR 2e)
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1. TBA
+
  
