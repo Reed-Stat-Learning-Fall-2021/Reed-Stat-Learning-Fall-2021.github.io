@@ -168,11 +168,14 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 ### Monday 9-13
 
+[Lecture Notes](lecture_notes/9-13_SLR.pdf)
+
+
 #### Topics
 
 - Simple Linear Regression
 
-- Assessing Model Accuracy for Linear Models
+- Inference for Linear Models
 
 
 #### Reading Assignment
