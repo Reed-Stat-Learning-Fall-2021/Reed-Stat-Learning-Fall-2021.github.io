@@ -1,0 +1,74 @@
+---
+title: "3d scatterplot"
+author: "Wells"
+date: "9/13/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = F, message = F)
+library(plotly)
+library(reshape2)
+```
+
+```{r}
+X1<-runif(50, 0, 1)
+X2<-runif(50, 0, 1)
+Y <- (X1+X2)/2 + runif(50,-.2, .2)
+my_df <- data.frame(X1, X2, Y)
+my_lm <- lm(Y ~  X1 + X2, data = my_df)
+```
+
+```{r}
+#Graph Resolution (more important for more complex shapes)
+graph_reso <- 0.05
+
+#Setup Axis
+axis_x <- seq(min(my_df$X1), max(my_df$X1), by = graph_reso)
+axis_y <- seq(min(my_df$X2), max(my_df$X2), by = graph_reso)
+
+#Sample points
+lm_surface <- expand.grid(X1 = axis_x,X2 = axis_y,KEEP.OUT.ATTRS = F)
+lm_surface$Y <- predict.lm(my_lm, newdata = lm_surface)
+lm_surface <- acast(lm_surface, X1 ~ X2, value.var = "Y")
+axis_z <- seq(0, 7, by = graph_reso)
+```
+
+```{r}
+#hcolors=c("red","blue","green")[my_df$Species]
+hcolors = "red"
+my_plot <- plot_ly(my_df, 
+                     x = ~X1, 
+                     y = ~X2, 
+                     z = ~Y,
+                     #text = ~Species, 
+                     type = "scatter3d", 
+                     mode = "markers",
+                     marker = list(color = hcolors, size=3)) %>% 
+  layout(
+    title = "Regression Plane",
+    showlegend = FALSE,
+    scene = list(
+      xaxis = list(title = "X1"),
+      yaxis = list(title = "X2"),
+      zaxis = list(title = "Y")
+    ))
+```
+
+```{r}
+my_plot
+```
+
+
+```{r}
+my_plot1 <- add_trace(p = my_plot,
+                       z = lm_surface,
+                       x = axis_x,
+                       y = axis_y,
+                       type = "surface",
+                       showlegend = FALSE)
+
+my_plot1
+```
+
+

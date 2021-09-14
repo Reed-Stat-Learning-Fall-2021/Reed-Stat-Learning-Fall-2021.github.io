@@ -177,6 +177,8 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 - Inference for Linear Models
 
+  - [Poverty data](data/poverty.txt)
+
 
 #### Reading Assignment
 
@@ -192,11 +194,13 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 ### Wednesday 9-15
 
-
+[Lecture Notes](lecture_notes/9-15_MLR.pdf)
 
 #### Topics
 
 - Multivariate Linear Regression
+
+  - [Interactive 3d plot of MLR](files/3d_scatterplot.html) [.Rmd file](files/3d_scatterplot.Rmd)
 
 
 #### Reading Assignment
@@ -228,13 +232,13 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 #### Topics
 
-- Extending the linear model
+- Assessing Model Accuracy for MLR
 
 #### Reading Assignment
 
 *Note that the listed reading assignments should be completed prior to class*
 
-- Chapter 3.3 and Chapter 3.6.4 - 3.6.6 in *Introduction to Statistical Learning* (ISLR 2e)
+- Review Chapter 3.2 and Chapter 3.6.3 in *Introduction to Statistical Learning* (ISLR 2e)
 
 ##### Discussion Question
 
