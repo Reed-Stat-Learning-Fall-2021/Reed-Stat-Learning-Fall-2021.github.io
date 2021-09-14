@@ -209,7 +209,7 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 Post responses in the `#daily-reading` channel on Slack by 8am.
 
-1. TBA
+1. Suppose we want to predict the value of $Y$ based on three variables $X_1, X_2, X_3$. In what ways is a single multiple regression model for $Y$ based on $X_1, X_2, X_3$ different from creating 3 separate simple regression models for $Y$ based on each of $X_1$, $X_2$ and $X_3$ individually.
 
 #### Assigned
 
