@@ -244,6 +244,6 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 Post responses in the `#daily-reading` channel on Slack by 8am.
 
-1. TBA
+1. No discussion question for Friday (note that previously, Chapter 3.3 was assigned for reading)
 
  
