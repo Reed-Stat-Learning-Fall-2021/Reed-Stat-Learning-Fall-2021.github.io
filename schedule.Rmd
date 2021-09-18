@@ -246,4 +246,85 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 1. No discussion question for Friday (note that previously, Chapter 3.3 was assigned for reading)
 
+
+
+***********************************************
+
+
+## Week 4
+
+### Monday 9-20
+
+
+
+#### Topics
+
+- Assessing Accuracy in MLR models
+
+- Potential Problems with Linear Models
+
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- Section 3.3.3 in *Introduction to Statistical Learning* (ISLR)
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1. Choose one of the 6 potential problems that can occur when fitting a linear regression model in Section 3.3.3. Explain what this problem is, why it represents a cause for concern, and how it might be corrected, using language that would be understandable to a non-statistical audience.
+
+### Wednesday 9-22
+
+
+
+#### Topics
+
+- Extensions of the MLR
+
+
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- Section 3.3 and 3.6.4, 3.6.5 in *Introduction to Statistical Learning* (ISLR)
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1. TBA
+
+#### Assigned
+
+- Homework 3. (Due 5pm on Wednesday 9-29)
+
+#### Due
+
+- Homework 2. (Due 5pm on Wednesday 9-22)
+
+
+
+### Friday 9-24
+
  
+ 
+
+#### Topics
+
+- MLR Examples
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- Review Chapter 3.4 in *Introduction to Statistical Learning* (ISLR 2e)
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1. TBA
