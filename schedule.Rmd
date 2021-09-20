@@ -255,7 +255,7 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 ### Monday 9-20
 
-
+[Lecture Notes](lecture_notes/9-20_MLR_Accuracy.pdf)
 
 #### Topics
 
