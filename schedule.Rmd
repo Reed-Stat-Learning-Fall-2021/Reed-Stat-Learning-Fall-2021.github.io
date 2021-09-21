@@ -296,7 +296,7 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 Post responses in the `#daily-reading` channel on Slack by 8am.
 
-1. TBA
+1. Give a real-world example of a response and pair of predictors that may have a *synergy* or interaction effect, and explain why we might expect this effect based on context. (Recall: an interaction occurs when the effect of one variable on the response is amplified or diminished as the values of the other variable change; this is different than Simpson's paradox, where the relationship between predictor and response changes between a single and multivariable model)
 
 #### Assigned
 
