@@ -278,7 +278,7 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 ### Wednesday 9-22
 
-
+[Lecture Notes](lecture_notes/9-22_MLR_Extensions.pdf)
 
 #### Topics
 
