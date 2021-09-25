@@ -317,6 +317,8 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 - MLR Examples
 
+  - [Fuel Economy Rmd](files/FuelEconomy.Rmd)
+
 #### Reading Assignment
 
 *Note that the listed reading assignments should be completed prior to class*
