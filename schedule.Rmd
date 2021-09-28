@@ -379,7 +379,7 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 Post responses in the `#daily-reading` channel on Slack by 8am.
 
-1. TBA
+1. In your own words, describe one problem that the bootstrap method attempts to solve.
 
 #### Assigned
 
