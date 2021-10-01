@@ -398,7 +398,7 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 #### Topics
 
-- Using CV and Bootstrapping to assess bias-variance tradeoff
+- Guest Lecture: Andrew Bray on "Fairness and Loss: The promise and peril of data science"
 
 #### Reading Assignment
 
