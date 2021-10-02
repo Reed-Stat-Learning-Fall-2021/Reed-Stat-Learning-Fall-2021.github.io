@@ -411,3 +411,89 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 Post responses in the `#daily-reading` channel on Slack by 8am.
 
 1.  No discussion question for Friday.
+
+
+***********************************************
+
+
+## Week 6
+
+### Monday 10-4
+
+
+#### Topics
+
+- Feature Selection
+
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- 6.1, 6.5.1 in *Introduction to Statistical Learning* (ISLR)
+
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1. What is one advantage and one disadvantage that the forward or backward selection algorithms have over the best subset algorithm?
+
+### Wednesday 10-6
+
+
+
+#### Topics
+
+- Selection Bias
+
+
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- Section 19.5 in *Applied Predictive Modeling* (APM)
+
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1. In your own words, describe what is meant by *selection bias* and why it is a problem for forward- or backward-selection methods of variable selection.
+
+
+#### Assigned
+
+- Homework 5. (Due 5pm on Wednesday 10-13)
+
+#### Due
+
+- Homework 4. (Due 5pm on Wednesday 10-6)
+
+
+
+### Friday 10-8
+
+ 
+ 
+
+#### Topics
+
+- Review for Midterm
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- None
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1.  What is one topic you'd like to review, or question you'd like to discuss during class on Friday?
+
+#### Assigned
+
+- Midterm 1. (Due 9am on Monday 10-11)
