@@ -420,6 +420,7 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 ### Monday 10-4
 
+[Lecture Notes](lecture_notes/10_4_Feature_Selection.pdf)
 
 #### Topics
 
