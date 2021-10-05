@@ -9,9 +9,9 @@ You will work in small groups to research a topic of interest to you, and then s
 
 ## Due Dates
 
-1. Group Membership: Friday, October 8th (Week 6) by 5pm on Slack
+1. Group Membership: Friday, October 15th (Week 7) by 5pm on Slack
 
-2. Project Proposal: Friday, October 15th (Week 7) by 5pm on GitHub
+2. Project Proposal: Friday, October 29th (Week 8) by 5pm on GitHub
 
 3. Technical Report (Data and Exploratory Data Analysis sections only): Friday, November 12th (Week 10) by 5pm on GitHub
 
@@ -29,11 +29,11 @@ You will work in small groups to research a topic of interest to you, and then s
 
 ### Groups
 
-You will arrange yourselves into groups of 3 or 4 students each. One person in your group should submit a list of group members to me via Slack message by **5pm on Friday, October 8th**. If you need help finding a group or wish to advertise for another member, please use the `#General-Discussion` channel on our Slack workspace. On Friday evening, I will sort any students who didn't express group preferences into groups.
+You will arrange yourselves into groups of 3 or 4 students each. One person in your group should submit a list of group members to me via Slack message by **5pm on Friday, October 15th**. If you need help finding a group or wish to advertise for another member, please use the `#General-Discussion` channel on our Slack workspace. On Friday evening, I will sort any students who didn't express group preferences into groups.
 
 ### Project Proposal
 
-By **5pm Friday, October 15th**, your group will draft a well-written project proposal outlining your project and upload the document to your group's GitHub repository. The proposal should include the following information:
+By **5pm Friday, October 29th**, your group will draft a well-written project proposal outlining your project and upload the document to your group's GitHub repository. The proposal should include the following information:
 
 - At least 1 paragraph of background information on the topic you wish to study.
 
