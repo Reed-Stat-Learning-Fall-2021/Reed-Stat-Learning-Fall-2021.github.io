@@ -442,7 +442,7 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 ### Wednesday 10-6
 
-
+[Lecture Notes](lecture_notes/10_6_Selection_Bias.pdf)
 
 #### Topics
 
@@ -497,4 +497,6 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 #### Assigned
 
-- Midterm 1. (Due 9am on Monday 10-11)
+- Midterm 1. (Posted in `#announcements` channel on Slack at 5pm on Friday. Due 9am on Monday 10-11)
+  
+  - [Midterm 1 Logistics](https://reed-stat-learning-fall-2021.github.io/exams.html#Exam_1)
