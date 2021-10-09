@@ -500,3 +500,88 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 - Midterm 1. (Posted in `#announcements` channel on Slack at 5pm on Friday. Due 9am on Monday 10-11)
   
   - [Midterm 1 Logistics](https://reed-stat-learning-fall-2021.github.io/exams.html#Exam_1)
+  
+  
+***********************************************
+
+
+## Week 7
+
+### Monday 10-11
+
+
+
+#### Topics
+
+- Penalized Regression
+
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- None
+
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1. None
+
+### Wednesday 10-13
+
+ 
+
+#### Topics
+
+- Ridge Regression
+
+
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- Section 6.2 and 6.5.2 in *Introduction to Statistical Learning* (ISLR)
+
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1. TBA
+
+
+#### Assigned
+
+- Homework 6. (Due 5pm on Wednesday 10-27)
+
+#### Due
+
+- Homework 5. (Due 5pm on Wednesday 10-13)
+
+
+
+### Friday 10-15
+
+ 
+ 
+
+#### Topics
+
+- LASSO
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- TBA
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1. TBA
+
+ 
