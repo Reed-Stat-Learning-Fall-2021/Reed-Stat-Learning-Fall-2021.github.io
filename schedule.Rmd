@@ -476,7 +476,7 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 ### Friday 10-8
 
- 
+[Ames Housing Results HW 3](lecture_notes/10_8_Ames_Results.pdf)
  
 
 #### Topics
