@@ -543,14 +543,14 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 *Note that the listed reading assignments should be completed prior to class*
 
-- Section 6.2 and 6.5.2 in *Introduction to Statistical Learning* (ISLR)
+- Section 6.2.1, 6.2.3, and 6.6.1 in *Introduction to Statistical Learning* (ISLR)
 
 
 ##### Discussion Question
 
 Post responses in the `#daily-reading` channel on Slack by 8am.
 
-1. TBA
+1. Explain why the following statement is false: "In a linear model for $Y \sim X_1 + X_2$ if the least squares regression line is $Y = 0.01 X_1 + 10 X_2$ and both predictors are significant at the $0.001$ level, then $X_2$ has a larger effect on the response than $X_1$, and is therefore, a more important predictor."
 
 
 #### Assigned
@@ -576,7 +576,7 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 *Note that the listed reading assignments should be completed prior to class*
 
-- TBA
+- Section 6.2.2, 6.2.3 and 6.6.2 in *Introduction to Statistical Learning* (ISLR)
 
 ##### Discussion Question
 
