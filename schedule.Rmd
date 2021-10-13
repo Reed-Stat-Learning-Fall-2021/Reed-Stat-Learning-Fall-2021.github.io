@@ -531,7 +531,7 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 ### Wednesday 10-13
 
- 
+[Lecture Notes](lecture_notes/10_13_Ridge_Regression_in_R.pdf)
 
 #### Topics
 
