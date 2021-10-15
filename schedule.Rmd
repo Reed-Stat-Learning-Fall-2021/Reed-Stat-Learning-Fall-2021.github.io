@@ -566,7 +566,7 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 ### Friday 10-15
 
  
- 
+[Lecture Notes](lecture_notes/10_15_LASSO.pdf)
 
 #### Topics
 
