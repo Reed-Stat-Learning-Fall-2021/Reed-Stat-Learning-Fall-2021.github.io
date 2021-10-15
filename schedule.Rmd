@@ -582,6 +582,6 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 Post responses in the `#daily-reading` channel on Slack by 8am.
 
-1. TBA
+1. Briefly explain one similarity and one difference between Ridge Regression and LASSO.
 
  
