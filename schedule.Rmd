@@ -584,4 +584,102 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 1. Briefly explain one similarity and one difference between Ridge Regression and LASSO.
 
+***********************************************
+
+
+## Fall Break
+
+Have a fantastic and restful fall break! See you back on October 25th.
+
+***********************************************
+
  
+
+
+## Week 8
+
+### Monday 10-25
+
+
+
+#### Topics
+
+- Logistic Regression
+
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- Sections 4.1 - 4.3 in *Introduction to Statistical Learning* (ISLR)
+
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1. What is one reason linear regression is not often used for classification problems?
+
+### Wednesday 10-27
+
+
+
+#### Topics
+
+- Logistic Regression
+
+
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- Section 4.6.1 and 4.6.2 in *Introduction to Statistical Learning* (ISLR)
+
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1. Describe a particular real-world binary classification problem in which it is more costly to make one type of misclassification mistake than the other (i.e. if the two levels of the response are coded as 0 and 1, it is more costly to classify a true 0 as a 1 than to classify a true 1 as a 0.)
+
+
+#### Assigned
+
+- Homework 5. (Due 5pm on Wednesday 11-3)
+
+#### Due
+
+- None
+
+
+
+### Friday 10-15
+
+ 
+ 
+
+#### Topics
+
+-  Linear Discriminant Analysis
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- Sections 4.4.1 - 4.4.3  in *Introduction to Statistical Learning* (ISLR)
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1. What is one circumstance where LDA will tend to do well on classification problems. What is one circumstance where LDA will tend to do poorly?
+
+
+#### Due
+
+- [Group Project Proposal](https://reed-stat-learning-fall-2021.github.io/projects.html#Project_Proposal) (Due 5pm on Friday 10-29 on Github)
+
+
+
+***********************************************
