@@ -11,7 +11,7 @@ You will work in small groups to research a topic of interest to you, and then s
 
 1. Group Membership: Friday, October 15th (Week 7) by 5pm on Slack
 
-2. Project Proposal: Friday, October 29th (Week 8) by 5pm on GitHub
+2. Project Proposal: Monday, November 1st (Week 9) by 5pm on GitHub
 
 3. Technical Report (Data and Exploratory Data Analysis sections only): Friday, November 12th (Week 10) by 5pm on GitHub
 
@@ -33,7 +33,7 @@ You will arrange yourselves into groups of 3 or 4 students each. One person in y
 
 ### Project Proposal
 
-By **5pm Friday, October 29th**, your group will draft a well-written project proposal outlining your project and upload the document to your group's GitHub repository. The proposal should include the following information:
+By **5pm Monday, November 1st**, your group will draft a well-written project proposal outlining your project and upload the .md or .pdf document to your group's GitHub repository. The proposal should include the following information:
 
 - At least 1 paragraph of background information on the topic you wish to study.
 
