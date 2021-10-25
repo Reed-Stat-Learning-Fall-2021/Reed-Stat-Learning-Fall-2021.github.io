@@ -600,11 +600,13 @@ Have a fantastic and restful fall break! See you back on October 25th.
 
 ### Monday 10-25
 
-
+[Lecture Notes](lecture_notes/10_25_Logistic_Regression.pdf)
 
 #### Topics
 
 - Logistic Regression
+
+  - [Example of 2d Logistic surface](files/Logistic_Example.html)
 
 
 #### Reading Assignment
