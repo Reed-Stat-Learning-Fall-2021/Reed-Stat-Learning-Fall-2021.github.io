@@ -624,7 +624,7 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 ### Wednesday 10-27
 
-
+[Lecture Notes](lecture_notes/10_27_Logistic_Regression_II.pdf)
 
 #### Topics
 
@@ -656,31 +656,26 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 
 
-### Friday 10-15
+### Friday 10-29
 
- 
  
 
 #### Topics
 
--  Linear Discriminant Analysis
+-  TBA
 
 #### Reading Assignment
 
 *Note that the listed reading assignments should be completed prior to class*
 
-- Sections 4.4.1 - 4.4.3  in *Introduction to Statistical Learning* (ISLR)
+- TBA  in *Introduction to Statistical Learning* (ISLR)
 
 ##### Discussion Question
 
 Post responses in the `#daily-reading` channel on Slack by 8am.
 
-1. What is one circumstance where LDA will tend to do well on classification problems. What is one circumstance where LDA will tend to do poorly?
+1. TBA
 
-
-#### Due
-
-- [Group Project Proposal](https://reed-stat-learning-fall-2021.github.io/projects.html#Project_Proposal) (Due 5pm on Friday 10-29 on Github)
 
 
 
