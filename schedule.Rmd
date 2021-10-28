@@ -662,19 +662,21 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 #### Topics
 
--  TBA
+-  Assessing classification accuracy
+
+- Github for groups
 
 #### Reading Assignment
 
 *Note that the listed reading assignments should be completed prior to class*
 
-- TBA  in *Introduction to Statistical Learning* (ISLR)
+- None
 
 ##### Discussion Question
 
 Post responses in the `#daily-reading` channel on Slack by 8am.
 
-1. TBA
+1. None
 
 
 
