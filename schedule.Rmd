@@ -658,13 +658,15 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 ### Friday 10-29
 
- 
+[Lecture Notes](lecture_notes/10_29_Classification_Performance.pdf)
 
 #### Topics
 
--  Assessing classification accuracy
+- Assessing classification accuracy
 
 - Github for groups
+
+  - [Github Activity](files/collaborating_github.pdf)
 
 #### Reading Assignment
 
