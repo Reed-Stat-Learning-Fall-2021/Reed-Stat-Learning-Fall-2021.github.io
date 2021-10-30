@@ -684,3 +684,100 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 
 ***********************************************
+
+
+
+***********************************************
+
+ 
+
+
+## Week 9
+
+### Monday 11-1
+
+ 
+
+#### Topics
+
+- KNN for classification
+
+- Github for groups
+
+  - [Github Activity](files/collaborating_github.pdf)
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- Section 4.7.6 in *Introduction to Statistical Learning* (ISLR)
+
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1. What is one situation in which you expect KNN to outperform logistic regression for binary classification problems. What is one situation you expect logistic regression to outperform KNN?
+
+#### Due
+
+- Submit group project proposal to Github by **5pm, Monday 11/1**
+
+### Wednesday 11-3
+
+ 
+
+#### Topics
+
+-  
+
+
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- Section TBA in *Introduction to Statistical Learning* (ISLR)
+
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1. TBA
+
+
+#### Assigned
+
+- Homework 7. (Due 5pm on Wednesday 11-10)
+
+#### Due
+
+- Homework 6, part I and part II
+
+
+
+### Friday 11-5
+
+ 
+
+#### Topics
+
+-  
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- TBA
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1. TBA
+
+
+
+
+***********************************************
