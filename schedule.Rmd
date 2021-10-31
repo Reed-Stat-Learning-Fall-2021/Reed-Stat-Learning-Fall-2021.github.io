@@ -696,7 +696,7 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 ### Monday 11-1
 
- 
+[Lecture Notes](lecture_notes/11_1_KNN_in_R.pdf)
 
 #### Topics
 
@@ -722,6 +722,7 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 #### Due
 
 - Submit group project proposal to Github by **5pm, Monday 11/1**
+
 
 ### Wednesday 11-3
 
