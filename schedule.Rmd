@@ -730,7 +730,7 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 #### Topics
 
--  
+- Linear Discrimant Analysis
 
 
 
@@ -738,14 +738,14 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 *Note that the listed reading assignments should be completed prior to class*
 
-- Section TBA in *Introduction to Statistical Learning* (ISLR)
+- Section 4.4 (just through 4.4.2) in *Introduction to Statistical Learning* (ISLR)
 
 
 ##### Discussion Question
 
 Post responses in the `#daily-reading` channel on Slack by 8am.
 
-1. TBA
+1.  What is one way LDA improves upon logistic regression for classification problems? What is one limitation of LDA?
 
 
 #### Assigned
@@ -764,19 +764,21 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 #### Topics
 
--  
+-  Quadratic Discriminant Analysis
+
+-  Naive Bayes Classifier
 
 #### Reading Assignment
 
 *Note that the listed reading assignments should be completed prior to class*
 
-- TBA
+- Section 4.4 (from 4.4.3) in *Introduction to Statistical Learning* (ISLR)
 
 ##### Discussion Question
 
 Post responses in the `#daily-reading` channel on Slack by 8am.
 
-1. TBA
+1. Briefly explain why it is plausible that LDA models have lower variance than QDA models, and then describe in what settings QDA models may still out-perform LDA models.
 
 
 
