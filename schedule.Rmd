@@ -726,11 +726,11 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 ### Wednesday 11-3
 
- 
+[Lecture Notes](lecture_notes/11_3_LDA.pdf)
 
 #### Topics
 
-- Linear Discrimant Analysis
+- Linear Discriminant Analysis
 
 
 
