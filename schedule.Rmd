@@ -760,13 +760,12 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 ### Friday 11-5
 
- 
+[Lecture Notes](lecture_notes/11_5_LDA_Extensions.pdf)
 
 #### Topics
 
 -  Quadratic Discriminant Analysis
 
--  Naive Bayes Classifier
 
 #### Reading Assignment
 
