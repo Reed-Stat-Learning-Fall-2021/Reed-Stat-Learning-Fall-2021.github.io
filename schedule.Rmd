@@ -687,7 +687,7 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 
 
-***********************************************
+ 
 
  
 
@@ -778,6 +778,90 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 Post responses in the `#daily-reading` channel on Slack by 8am.
 
 1. Briefly explain why it is plausible that LDA models have lower variance than QDA models, and then describe in what settings QDA models may still out-perform LDA models.
+
+
+
+
+***********************************************
+
+## Week 10
+
+### Monday 11-8
+
+
+#### Topics
+
+- Decision Trees
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- Section 8.1 in *Introduction to Statistical Learning* (ISLR)
+
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1. Suppose you want to predict whether it will rain in Portland on Tuesday November 9th. Give an explicit example of a decision tree that uses two variables and at least 3 (but no more than 5) leaves that you could use to make this prediction.
+
+
+
+### Wednesday 11-10
+
+
+
+#### Topics
+
+- Regression and Classification Trees in R
+
+
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- 8.8 (just the part on Single Trees) and 14.8 (just the part on Classification Trees) in *Applied Predictive Modeling* (APM)
+
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1. What hyperparameters need to be *tuned* for classification or regression trees? What are the possible consequences of leaving these parameters at their default values?
+
+
+#### Assigned
+
+- Homework 8. (Due 5pm on Wednesday 11-17)
+
+#### Due
+
+- Homework 7
+
+
+
+### Friday 11-12
+
+
+
+#### Topics
+
+-  Bagging and Random Forests
+
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- Section 8.2.1 and 8.2.2 in *Introduction to Statistical Learning* (ISLR)
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1. What is one similiarty and one difference between bagged trees and random forests?
 
 
 
