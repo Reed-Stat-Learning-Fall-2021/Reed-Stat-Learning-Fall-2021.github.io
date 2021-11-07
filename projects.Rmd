@@ -13,7 +13,7 @@ You will work in small groups to research a topic of interest to you, and then s
 
 2. Project Proposal: Monday, November 1st (Week 9) by 5pm on GitHub
 
-3. Technical Report (Data and Exploratory Data Analysis sections only): Friday, November 12th (Week 10) by 5pm on GitHub
+3. Technical Report (Data and Exploratory Data Analysis sections only): Monday, November 15th (Week 11) by 5pm on GitHub
 
 4. Technical Report Draft (All sections complete): Wednesday, December 8th (Week 14) by 5pm on GitHub
 
