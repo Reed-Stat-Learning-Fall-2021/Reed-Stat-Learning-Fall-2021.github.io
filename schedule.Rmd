@@ -788,6 +788,7 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 ### Monday 11-8
 
+[Lecture Notes](lecture_notes/11_8_Trees_I.pdf)
 
 #### Topics
 
