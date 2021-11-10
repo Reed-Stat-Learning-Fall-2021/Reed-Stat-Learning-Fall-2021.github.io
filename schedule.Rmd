@@ -811,7 +811,7 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 ### Wednesday 11-10
 
-
+[Lecture Notes](lecture_notes/11_10_Trees_II.pdf)
 
 #### Topics
 
@@ -849,20 +849,20 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 #### Topics
 
--  Bagging and Random Forests
+-  Classification Trees
 
 
 #### Reading Assignment
 
 *Note that the listed reading assignments should be completed prior to class*
 
-- Section 8.2.1 and 8.2.2 in *Introduction to Statistical Learning* (ISLR)
+- Section TBA in *Introduction to Statistical Learning* (ISLR)
 
 ##### Discussion Question
 
 Post responses in the `#daily-reading` channel on Slack by 8am.
 
-1. What is one similiarty and one difference between bagged trees and random forests?
+1. TBA
 
 
 
