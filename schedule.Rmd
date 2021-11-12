@@ -851,6 +851,8 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 -  Classification Trees
 
+  - [Classification Activity](files/classification.html)
+
 
 #### Reading Assignment
 
