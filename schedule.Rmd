@@ -867,3 +867,85 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 1. Choose one of either *Gini Index* or the *Information Statistic (or entropy)* and briefly explain in 2 to 3 sentences why it is a measurement of node purity. Be sure to include what values correspond to high and to lower purities. 
 
 ***********************************************
+
+## Week 11
+
+### Monday 11-15
+
+ 
+
+#### Topics
+
+- Decision Trees
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- Section 8.2.1, 8.2.2 and 8.3.3 in *Introduction to Statistical Learning* (ISLR)
+
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1.  What is one similarity and one difference between **bagging** and **random forests**?
+
+
+
+### Wednesday 11-17
+
+ 
+
+#### Topics
+
+- Boosted Trees
+
+
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- Section 8.2.3, 8.2.4, 8.3.4 and 8.3.5 in *Introduction to Statistical Learning* (ISLR)
+
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1.  In your own words, explain why it is plausible that boosted tree algorithms may provide accurate predictions, even if each individual tree has low accuracy.  
+
+
+#### Assigned
+
+- None
+
+#### Due
+
+- Homework 8
+
+
+
+### Friday 11-19
+
+
+
+#### Topics
+
+-  Midterm Review
+
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- None
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1. What is one topic you'd like to review, or question you'd like to discuss during class on Friday?
+
+***********************************************
