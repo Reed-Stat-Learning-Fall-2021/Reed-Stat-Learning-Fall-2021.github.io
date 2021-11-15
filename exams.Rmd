@@ -37,3 +37,36 @@ Two take-home exams will be given during the term, and will be made available on
   
   
 8. If you run into problems while taking the exam, document the problem in your exam and message me on slack. I will try to respond as soon as I can, but can't guarantee I will available at that moment.
+
+## Exam 2
+
+### Logistics
+
+1. The exam will be **lightly cumulative**, but with emphasis on material covered since the first midterm. In particular, it will focus on Chapters 4, 6 and 8.1 of ISLR, including topics we discussed in class through Friday 11-12.
+
+2. The exam will be made available on GitHub at 5pm PDT on Friday, 11-19. A link to the exam will be posted in the `#announcements` channel on Slack.
+
+3. You must submit your completed exam via pushing any commits to GitHub prior to 9:00am PDT on Monday, 11-22.
+
+4. This is a timed exam. You may take up to 3 hours to work on the exam between Friday and Monday. This time does not need to be spent consecutively. However, if you take a break from the exam, you should not spend the time during that break working on the exam, reviewing notes, or actively thinking about the problems.
+
+5. You are responsible for keeping track of your own time on the exam and will be asked to provide an estimate for the total amount of time you spent.
+
+
+6. You may freely consult the following references during the exam:
+  - Your ISLR and Applied Predictive Modeling textbooks
+  - Any course notes **you** have taken for this class
+  - Cheatsheats or notes from other classes, provided **you** were the one to create the notes
+  - Lecture slides on the course website
+  - Homework problems you have submitted
+  - Built-in RStudio help files and cheatsheets
+  
+7. You may not consult any other resources, including (but not limited to):
+  - Classmates
+  - Tutors
+  - Other faculty
+  - Other textbooks
+  - Online help (stackexchange, message boards, slack, etc.)
+  
+  
+8. If you run into problems while taking the exam, document the problem in your exam and message me on slack. I will try to respond as soon as I can, but can't guarantee I will available at that moment.
