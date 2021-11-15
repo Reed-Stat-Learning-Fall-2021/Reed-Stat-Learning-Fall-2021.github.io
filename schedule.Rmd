@@ -864,7 +864,7 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 Post responses in the `#daily-reading` channel on Slack by 8am.
 
-1. Choose one of either *Gini Index* or the *Information Statistic (or entropy)* and briefly explain in 2 to 3 sentences why it is a measurement of node purity. Be sure to include what values correspond to high and to lower purities. 
+1. Choose one of either *Gini Index* or the *Information Statistic (or entropy)* and briefly explain in 2 to 3 sentences why it is a measurement of node purity. Be sure to include what values correspond to high and to lower impurities. 
 
 ***********************************************
 
@@ -872,11 +872,11 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 ### Monday 11-15
 
- 
+[Lecture Notes](lecture_notes/11_15_Bagging_and_RF.pdf)
 
 #### Topics
 
-- Decision Trees
+- Bagging and Random Forests
 
 #### Reading Assignment
 
