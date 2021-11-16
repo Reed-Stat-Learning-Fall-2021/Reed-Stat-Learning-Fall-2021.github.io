@@ -895,7 +895,7 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 ### Wednesday 11-17
 
- 
+[Lecture Notes](lecture_notes/11_17_Boosting.pdf)
 
 #### Topics
 
