@@ -954,6 +954,7 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 ### Monday 11-22
 
+[Lecture Notes](lecture_notes/11_22_Tidymodels.pdf)
 
 
 #### Topics
