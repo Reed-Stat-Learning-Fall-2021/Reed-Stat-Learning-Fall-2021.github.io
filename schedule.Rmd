@@ -949,3 +949,71 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 1. What is one topic you'd like to review, or question you'd like to discuss during class on Friday?
 
 ***********************************************
+
+## Week 12
+
+### Monday 11-22
+
+
+
+#### Topics
+
+- Intro to Tidymodels
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- None
+
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1.  None
+
+
+
+### Wednesday 11-24
+
+ 
+
+#### Topics
+
+- More Tidymodels
+
+
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- Skim Chapters 6, 7, 8 in [Tidy Modeling with R](https://www.tmwr.org/)
+
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1.  TBA
+
+
+#### Assigned
+
+- Homework 9
+
+#### Due
+
+- None
+
+
+
+### Friday 11-19
+
+
+
+Thanksgiving Break!
+
+
+***********************************************
