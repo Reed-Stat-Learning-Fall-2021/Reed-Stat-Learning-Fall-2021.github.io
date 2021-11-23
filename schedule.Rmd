@@ -997,7 +997,7 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 Post responses in the `#daily-reading` channel on Slack by 8am.
 
-1.  TBA
+1. Based on Monday's lecture, as well as your reading for today, what is one advantage of the tidymodels framework, compared to the workflow we've used earlier in the term? What is one disadvantage?
 
 
 #### Assigned
