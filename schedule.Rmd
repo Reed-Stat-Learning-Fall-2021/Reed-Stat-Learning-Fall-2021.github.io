@@ -1018,3 +1018,87 @@ Thanksgiving Break!
 
 
 ***********************************************
+
+## Week 13
+
+### Monday 11-29
+
+ 
+
+
+#### Topics
+
+- Stacks!
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- The `stacks` package [Getting Started](https://stacks.tidymodels.org/articles/basics.html) vignette
+
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1.  None
+
+
+
+### Wednesday 12-1
+
+ 
+
+#### Topics
+
+- Guest Speaker: Kelly McConville on "AI Models in Survey Estimation"
+
+
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- None
+
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1. None
+
+
+#### Assigned
+
+- Homework 10
+
+#### Due
+
+- Homework 9
+
+
+
+### Friday 12-3
+
+
+#### Topics
+
+- TBA
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- TBA
+
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1.  TBA
+ 
+
+
+***********************************************
