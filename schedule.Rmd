@@ -1047,7 +1047,7 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 ### Wednesday 12-1
 
- 
+[Lecture Notes](lecture_notes/11_29_Stacks.pdf)
 
 #### Topics
 
