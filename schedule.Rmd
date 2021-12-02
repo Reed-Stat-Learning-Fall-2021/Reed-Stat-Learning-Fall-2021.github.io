@@ -1084,20 +1084,21 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 #### Topics
 
-- TBA
+- Principal Component Regression
 
 #### Reading Assignment
 
 *Note that the listed reading assignments should be completed prior to class*
 
-- TBA
+- Section 6.3 and 6.5.3 in *Introduction to Statistical Learning* (ISLR)
+
 
 
 ##### Discussion Question
 
 Post responses in the `#daily-reading` channel on Slack by 8am.
 
-1.  TBA
+1. What is one way Principal Component Regression is *similar* to feature selection via best subset? What is one important way it is different?
  
 
 
