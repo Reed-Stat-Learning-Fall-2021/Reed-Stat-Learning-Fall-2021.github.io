@@ -1081,6 +1081,7 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 ### Friday 12-3
 
+[Lecture Notes](lecture_notes/12_3_PCR.pdf)
 
 #### Topics
 
