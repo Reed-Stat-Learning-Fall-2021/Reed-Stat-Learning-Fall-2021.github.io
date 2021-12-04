@@ -1104,3 +1104,56 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 
 ***********************************************
+
+## Week 14
+
+### Monday 12-6
+
+Lecture Video (posted by 9am on Monday)
+
+
+#### Topics
+
+- Principal Component Analysis
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- Section 12.1, 12.2, and 12.5.1 in *Introduction to Statistical Learning* (ISLR)
+
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1. What does it mean to say a statistical learning tecnique is "unsupervised"? Why might we be interested in unsupervised techniques?
+
+
+
+### Wednesday 12-8
+
+
+
+#### Topics
+
+- Last Day of Class!
+
+
+
+#### Reading Assignment
+
+*Note that the listed reading assignments should be completed prior to class*
+
+- None
+
+
+##### Discussion Question
+
+Post responses in the `#daily-reading` channel on Slack by 8am.
+
+1. What is one question you have from the video lecture on Monday?
+
+
+ 
+***********************************************
