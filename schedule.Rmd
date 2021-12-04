@@ -1119,6 +1119,8 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 - Principal Component Analysis
 
+  - No class on Monday. Instea, watch the two lecture videos above on PCA and write down any questions you have, which we can discuss on Wednesday.
+
 #### Reading Assignment
 
 *Note that the listed reading assignments should be completed prior to class*
