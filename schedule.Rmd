@@ -1109,8 +1109,11 @@ Post responses in the `#daily-reading` channel on Slack by 8am.
 
 ### Monday 12-6
 
-Lecture Video (posted by 9am on Monday)
+[Lecture Video Part I](https://ensemble.reed.edu/Watch/Fc3p6NKr)
 
+[Lecture Video Part II](https://ensemble.reed.edu/Watch/i2M8WrGk) 
+
+[Lecture Notes](lecture_notes/12_6_PCA.pdf)
 
 #### Topics
 
